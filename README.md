@@ -59,9 +59,9 @@
 
 ## 技术分享文章
 
-* [HTTP协议原理](me/share/HTTP协议原理分享.pdf) | [Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)
-* [postman使用详解](me/share/postman的使用方法详解.pdf) | [代码审查](me/share/codeReview)
-* [vi_vim命令详解](me/share/vi_vim命令使用详解.pdf) | [如何有效报告bug](me/share/如何有效地报告Bug.pdf)
+* [HTTP协议原理](me/share/HTTP协议原理分享.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)
+* [postman使用详解](me/share/postman的使用方法详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[代码审查](me/share/codeReview)
+* [vi_vim命令详解](me/share/vi_vim命令使用详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[如何有效报告bug](me/share/如何有效地报告Bug.pdf)
 * 前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13) [错误定位](https://github.com/joeyguo/blog/issues/14)
 
 
