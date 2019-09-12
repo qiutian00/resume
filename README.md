@@ -17,23 +17,23 @@
 
 * _工具库_: 
   
-  > jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / 
-  > echartjs (✔✔) / chartjs (✔✔)
+  > jQuery  (✔✔✔) / [momentjs](https://momentjs.com/)  (✔✔✔) / [exceljs](https://github.com/exceljs/exceljs)  (✔✔✔) / [treantjs](http://fperucic.github.io/treant-js/) (✔✔) / [lodash](https://github.com/lodash/lodash/) (✔) / 
+  > Apache ECharts (✔✔) / [chartjs](https://www.chartjs.org/) (✔✔)
 
 * _工具_: 
   
-  > VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
-  > Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /
-  > PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔) / Mock (✔✔) /
-  > unit test (✔✔)
+  > VSCode (✔✔✔) / IntelliJ IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
+  > [Linux command](https://wangchujiang.com/linux-command/) (✔✔) / [Sass](https://sass-lang.com/guide) (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / [Fiddler](https://www.telerik.com/fiddler) (✔✔✔) /
+  > PLSQL Developer, Mysql (✔✔✔) / [Wekan](https://github.com/wekan/wekan) (✔✔) / [Alibaba iconfont图标库](https://www.iconfont.cn/) (✔✔✔) / [Mock](https://github.com/nuysoft/Mock) (✔✔) /
+  > [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) (✔✔)
 
 * _框架_: 
   
-    > layui (✔✔✔✔) / React (✔✔) / Vue (✔✔✔)
+    > [layui](https://www.layui.com/) (✔✔✔✔) / [React](https://reactjs.org/) (✔✔) / [Vue](https://cn.vuejs.org/) (✔✔✔)
 
 * _部署_: 
   
-    > Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) /  Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
+    > Gulp (✔) / [Travis CI](https://www.travis-ci.org/) (✔✔)  / [GitHub Pages](https://pages.github.com/) (✔✔✔) /  [Tomcate](http://tomcat.apache.org/) (✔✔✔), windows IIS (✔✔), [Nignx](http://nginx.org/en/) (✔✔)
 
 ## 工作经验
 
