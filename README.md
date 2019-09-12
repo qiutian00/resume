@@ -17,7 +17,7 @@
 
 * _工具库_: 
   
-  > jQuery  (✔✔✔) / [momentjs](https://momentjs.com/)  (✔✔✔) / [exceljs](https://github.com/exceljs/exceljs)  (✔✔✔) / [treantjs](http://fperucic.github.io/treant-js/) (✔✔) / [lodash](https://github.com/lodash/lodash/) (✔) / 
+  > jQuery  (✔✔✔) / [momentjs](https://momentjs.com/)  (✔✔✔) / [ExcelJS](https://github.com/ExcelJS/ExcelJS)  (✔✔✔) / [treantjs](http://fperucic.github.io/treant-js/) (✔✔) / [lodash](https://github.com/lodash/lodash/) (✔) / 
   > Apache ECharts (✔✔) / [chartjs](https://www.chartjs.org/) (✔✔)
 
 * _工具_: 
@@ -41,9 +41,9 @@
 
 #### 接触项目
 
-* layui 主打的前端项目: 接触过统一用户授权，数据交换中心，电子健康卡等项目； 期间独立完成部署文档编写, sql脚本维护， 发包； 也包括独立对 treantjs [流程图](todo)的学习使用， 前端实现excel导入导出(excelJS, sheetJS)
-* [数据大屏展示](https://github.com/qiutian00/large-screen-show):  使用layui, echartjs lib, gulp工具开发； 实现echart多种图形结合使用和数据地图显示
-* react实现的小程序管理端系统: 独立负责资讯统计，健康服务管理，消息可配置管理等模块；其中包括实现基于 facebook draft-js的[braft-editor富文本编辑器](https://github.com/margox/braft-editor)操作，[chartjs图](https://github.com/chartjs/Chart.js)在react中使用， 图片上传（基于Ant Design Upload）；注重于Git 提交规范，编码规范，单元测试； 并熟悉 debugger in VSCode
+* layui 主打的前端项目: 接触过统一用户授权，数据交换中心，电子健康卡等项目； 期间独立完成部署文档编写, sql脚本维护， 发包； 也包括独立对 treantjs [流程图](todo)的学习使用， 前端实现excel导入导出(ExcelJS, SheetJS)
+* [数据大屏展示](https://github.com/qiutian00/large-screen-show):  使用layui, ECharts lib, Gulp工具开发； 实现ECharts中多种图形结合使用和数据地图显示
+* React实现的小程序管理端系统: 独立负责资讯统计，健康服务管理，消息可配置管理等模块；其中包括实现基于 facebook draft-js的[braft-editor富文本编辑器](https://github.com/margox/braft-editor)操作，[chartjs图](https://github.com/chartjs/Chart.js)在React中使用， 图片上传（基于Ant Design Upload）；注重于Git 提交规范，编码规范，单元测试； 并熟悉 Debugging in VS Code
 
 #### 收获
 - 勇于提出问题，积极表述建议/观点，回答不能够说，不确定，可能
@@ -55,14 +55,14 @@
 ## 搭建项目
 
 * [vue-simple](https://github.com/qiutian00/vue-simple): 使用 Vue CLI 3.0 来构建的基本结构项目
-* [github-activity](https://github.com/qiutian00/github-activity): github 活动可视化显示， 使用Vue CLI 3.0 来构建的项目
-* [vue-admin](https://github.com/qiutian00/vue-admin): vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用
-* [react-me](https://github.com/qiutian00/react-me): react 基本知识点学习和记录，了解react生态系统
-* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用markdwon语法编写文档内容
+* [github-activity](https://github.com/qiutian00/github-activity): Github 活动可视化显示， 使用Vue CLI 3.0 来构建的项目
+* [vue-admin](https://github.com/qiutian00/vue-admin): Vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用
+* [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解React生态系统
+* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用Markdown语法编写文档内容
 
 ## 技术分享
 
-* [HTTP协议原理](me/share/HTTP协议原理分享.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[postman使用详解](me/share/postman的使用方法详解.pdf)
+* [HTTP协议原理](me/share/HTTP协议原理分享.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Postman使用详解](me/share/postman的使用方法详解.pdf)
 * [vi_vim命令详解](me/share/vi_vim命令使用详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[代码审查](me/share/codeReview)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[如何有效报告bug](me/share/如何有效地报告Bug.pdf)
 * 前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13) [错误定位](https://github.com/joeyguo/blog/issues/14)
 
@@ -77,4 +77,6 @@
 * [Blog](https://qiutian00.github.io/)
 * [CNode 社区](https://cnodejs.org/user/qiutian00)
 
-@copyright by qiutian00, here the [pdf](me/resume/qiutian00_resume.pdf).
+Here the [pdf](me/resume/qiutian00_resume.pdf).
+Please contact me by email at qiutian00@outlook.com.
+@copyright by qiutian00.
