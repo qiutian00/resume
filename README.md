@@ -9,10 +9,25 @@
 
 非常熟悉 (✔✔✔✔)  熟悉 (✔✔✔)  基本操作 (✔✔)  了解 (✔)
 
-* _编程语言_: JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔)
-* _工具库 && 框架_: jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / echartjs (✔✔) / chartjs (✔✔) / layui (✔✔✔✔) / React (✔✔) / Vue (✔✔✔) /
-* _工具_: VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) / Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /  PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔)
-* _部署_: Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) / Mock (✔✔) / unit test (✔✔) / Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
+* _编程语言_: 
+  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔)
+* _工具库_: 
+  > jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / 
+  
+  > echartjs (✔✔) / chartjs (✔✔)
+* _工具_: 
+  > VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
+  
+  > Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /
+  
+  > PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔)
+
+* _框架_: 
+    > layui (✔✔✔✔) / React (✔✔) / Vue (✔✔✔)
+* _部署_: 
+    > Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) / Mock (✔✔) / unit test (✔✔) /
+    
+    > Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
 
 ## 工作经验
 
