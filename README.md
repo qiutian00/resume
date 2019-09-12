@@ -13,18 +13,19 @@
 
 * _编程语言_: 
   
-  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔) <br/>
+  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔)
 
 * _工具库_: 
   
-  > jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / <br/>
+  > jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / 
   > echartjs (✔✔) / chartjs (✔✔)
 
 * _工具_: 
   
-  > VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /<br/>
-  > Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /<br/>
-  > PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔)
+  > VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
+  > Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /
+  > PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔) / Mock (✔✔) /
+  > unit test (✔✔)
 
 * _框架_: 
   
@@ -32,8 +33,7 @@
 
 * _部署_: 
   
-    > Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) / Mock (✔✔) / unit test (✔✔) /<br/>
-    > Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
+    > Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) /  Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
 
 ## 工作经验
 
