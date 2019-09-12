@@ -10,23 +10,27 @@
 非常熟悉 (✔✔✔✔)  熟悉 (✔✔✔)  基本操作 (✔✔)  了解 (✔)
 
 * _编程语言_: 
-  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔)
+  
+  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔) <br/>
+
 * _工具库_: 
-  > jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / 
   
+  > jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / <br/>
   > echartjs (✔✔) / chartjs (✔✔)
+
 * _工具_: 
-  > VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
   
-  > Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /
-  
+  > VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /<br/>
+  > Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /<br/>
   > PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔)
 
 * _框架_: 
+  
     > layui (✔✔✔✔) / React (✔✔) / Vue (✔✔✔)
+
 * _部署_: 
-    > Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) / Mock (✔✔) / unit test (✔✔) /
-    
+  
+    > Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) / Mock (✔✔) / unit test (✔✔) /<br/>
     > Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
 
 ## 工作经验
