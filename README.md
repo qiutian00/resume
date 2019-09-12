@@ -5,12 +5,14 @@
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 李文 / 1996 / 湖南衡阳 / 本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405
 
-## 技能
+## 技能 
 
-* _编程语言_: JavaScript (ES6+) / HTML5 / CSS3 / SQL / little java
-* _工具库 && 框架_: jquery / moment / exceljs / [treatjs](http://fperucic.github.io/treant-js/) / loadash / echartjs/ chartjs /layui / basic React / basic Vue /
-* _工具_: VSCode / IDEA / Git (GitFlow) / SVN / Debug (Devtools) / little Linux command / little SCSS / Markdown / Postman / filder /  PL/SQL, Mysql / wenkan / alibaba iconfont图标库
-* _部署_:  little Gulp / Travis  / github page / Mock / little unit test / Tomcate, windows IIS, little Nignx
+非常熟悉 (✔✔✔✔)  熟悉 (✔✔✔)  基本操作 (✔✔)  了解 (✔)
+
+* _编程语言_: JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔)
+* _工具库 && 框架_: jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / echartjs (✔✔) / chartjs (✔✔) / layui (✔✔✔✔) / React (✔✔) / Vue (✔✔✔) /
+* _工具_: VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) / Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /  PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔)
+* _部署_: Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) / Mock (✔✔) / unit test (✔✔) / Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
 
 ## 工作经验
 
@@ -18,12 +20,11 @@
 
 #### 项目
 
-* layui 主打的前端项目:   部署文档编写， 部署， sql脚本维护， 发包； treantjs 流程图的研发， 前端实现excel导入导出(excelJS, sheetJS)； 五大资源库；数据交换中心；双向转诊；电子健康卡
-* 数据大屏展示:  利用echartjs lib, gulp工具
-* react实现的小程序管理端系统: 富文本的编辑操作， 图片上传， 单元测试， Git 提交规范，编码规范， debugger in VSCode
+* layui 主打的前端项目: 接触过统一用户授权，数据交换中心，电子健康卡等项目； 期间独立完成部署文档编写, sql脚本维护， 发包； 也包括独立对 treantjs [流程图](todo)的学习使用， 前端实现excel导入导出(excelJS, sheetJS)
+* [数据大屏展示](https://github.com/qiutian00/large-screen-show):  使用layui, echartjs lib, gulp工具开发； 实现echart多种图形结合使用和数据地图显示
+* react实现的小程序管理端系统: 独立负责资讯统计，健康服务管理，消息可配置管理等模块；其中包括实现基于 facebook draft-js[braft-editor富文本编辑器](https://github.com/margox/braft-editor)操作，[chartjs图](https://github.com/chartjs/Chart.js)在react中使用， 图片上传（基于Ant Design Upload）；注重于Git 提交规范，编码规范，单元测试； 并熟悉 debugger in VSCode
 
 #### 收获
-- 项目中可能需要花费许多时间到特性上，也不能完全按照需求文档刻画出来，最后bug也多，对接的业务系统功能也没有实现
 - 勇于提出问题，积极表述建议/观点，回答不能够说，不确定，可能
 - 避免情绪化的影响工作，在适当的时候，提出问题或者需求帮助
 - 一定量的数据收集统计        
@@ -35,7 +36,7 @@
 * [github-activity](https://github.com/qiutian00/github-activity): github 活动可视化显示
 * [vue-admin](https://github.com/qiutian00/vue-admin): vue 实现的管理系统
 * [react-me](https://github.com/qiutian00/react-me): react 基本知识点学习和记录
-* [tea-doc](https://github.com/teadocs/teadocs): 快速进行文档的分享
+* [tea-doc](https://github.com/teadocs/teadocs): 快速进行在线文档分享
 
 ## 技术分享文章
 
