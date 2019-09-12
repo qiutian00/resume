@@ -13,7 +13,7 @@ const tmpl = `
     <title>Harry Yu - Senior Front-End Developer</title>
     <link rel="stylesheet" href="./styles.css" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57557739-4"></script>
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57557739-4"></script> -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}

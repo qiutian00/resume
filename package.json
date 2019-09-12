@@ -1,7 +1,7 @@
 {
   "name": "cv",
   "version": "1.0.0",
-  "description": "* Email: hi@harryyu.me",
+  "description": "* Email: qiutian00@outlook.com",
   "main": "index.js",
   "scripts": {
     "build": "node build.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yujiangshui/cv.git"
+    "url": "git+https://github.com/qiutian00/resume.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yujiangshui/cv/issues"
+    "url": "https://github.com/qiutian00/resume/issues"
   },
-  "homepage": "https://github.com/yujiangshui/cv#readme",
+  "homepage": "https://github.com/qiutian00/resume#readme",
   "dependencies": {},
   "devDependencies": {
     "marked": "^0.6.2"
