@@ -7,31 +7,31 @@
 
 ## 技能 
 
-非常熟悉 (:small_orange_diamond::small_orange_diamond::small_orange_diamond:)  熟悉 (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)  基本操作 (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)  了解 (:diamond_shape_with_a_dot_inside:)
+非常熟悉 (✔✔✔✔)  熟悉 (✔✔✔)  基本操作 (✔✔)  了解 (✔)
 
 * _编程语言_: 
   
-  > JavaScript (ES6+) (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / HTML5 (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / CSS3 (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)  / SQL (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / java (:diamond_shape_with_a_dot_inside:) <br/>
+  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔) <br/>
 
 * _工具库_: 
   
-  > jquery  (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / moment  (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / exceljs  (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / [treatjs](http://fperucic.github.io/treant-js/) (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / loadash (:diamond_shape_with_a_dot_inside:) / <br/>
-  > echartjs (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / chartjs (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)
+  > jquery  (✔✔✔) / moment  (✔✔✔) / exceljs  (✔✔✔) / [treatjs](http://fperucic.github.io/treant-js/) (✔✔) / loadash (✔) / <br/>
+  > echartjs (✔✔) / chartjs (✔✔)
 
 * _工具_: 
   
-  > VSCode (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / IDEA (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / Git (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / SVN (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / Debug (Devtools) (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) /<br/>
-  > Linux command (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / SCSS (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / Markdown (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / Postman (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / filder (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) /<br/>
-  > PL/SQL, Mysql (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / wenkan (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / alibaba iconfont图标库 (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)
+  > VSCode (✔✔✔) / IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /<br/>
+  > Linux command (✔✔) / SCSS (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / filder (✔✔✔) /<br/>
+  > PL/SQL, Mysql (✔✔✔) / wenkan (✔✔) / alibaba iconfont图标库 (✔✔✔)
 
 * _框架_: 
   
-    > layui (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / React (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / Vue (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)
+    > layui (✔✔✔✔) / React (✔✔) / Vue (✔✔✔)
 
 * _部署_: 
   
-    > Gulp (:diamond_shape_with_a_dot_inside:) / Travis (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)  / github page (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / Mock (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) / unit test (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:) /<br/>
-    > Tomcate (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:), windows IIS (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:), Nignx (:diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:)
+    > Gulp (✔) / Travis (✔✔)  / github page (✔✔✔) / Mock (✔✔) / unit test (✔✔) /<br/>
+    > Tomcate (✔✔✔), windows IIS (✔✔), Nignx (✔✔)
 
 ## 工作经验
 
