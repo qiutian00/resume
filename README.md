@@ -1,6 +1,6 @@
 ## 李文 
 
-求职意向： web 前端开发者
+求职意向： web 前端开发
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405
@@ -60,9 +60,8 @@
 
 ## 技术分享
 
-* [HTTP协议原理](me/share/HTTP协议原理分享.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)
-* [postman使用详解](me/share/postman的使用方法详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[代码审查](me/share/codeReview)
-* [vi_vim命令详解](me/share/vi_vim命令使用详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[如何有效报告bug](me/share/如何有效地报告Bug.pdf)
+* [HTTP协议原理](me/share/HTTP协议原理分享.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[postman使用详解](me/share/postman的使用方法详解.pdf)
+* [vi_vim命令详解](me/share/vi_vim命令使用详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[代码审查](me/share/codeReview)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[如何有效报告bug](me/share/如何有效地报告Bug.pdf)
 * 前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13) [错误定位](https://github.com/joeyguo/blog/issues/14)
 
 
