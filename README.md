@@ -2,7 +2,7 @@
 
 [![nDNQne.th.png](https://s2.ax1x.com/2019/09/12/nDNQne.th.png)](https://imgchr.com/i/nDNQne)
 
-求职意向： web 前端开发
+求职意向： web 前端开发   期望薪资： > 7.5k，可面议  注： 链接可查看
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405
