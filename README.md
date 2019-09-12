@@ -55,7 +55,7 @@
 * [github-activity](https://github.com/qiutian00/github-activity): github 活动可视化显示
 * [vue-admin](https://github.com/qiutian00/vue-admin): vue 实现的管理系统
 * [react-me](https://github.com/qiutian00/react-me): react 基本知识点学习和记录
-* [tea-doc](https://github.com/teadocs/teadocs): 快速进行在线文档分享
+* [mydocs](https://github.com/qiutian00/mydocs): 快速进行在线文档分享
 
 ## 技术分享文章
 
