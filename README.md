@@ -77,4 +77,4 @@
 * [Blog](https://qiutian00.github.io/)
 * [CNode 社区](https://cnodejs.org/user/qiutian00)
 
-@copyright by qiutian00.
+@copyright by qiutian00, here the [pdf](me/resume/qiutian00_resume.pdf).
