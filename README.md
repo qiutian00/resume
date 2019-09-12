@@ -1,5 +1,7 @@
 ## 李文 
 
+[![nDNQne.th.png](https://s2.ax1x.com/2019/09/12/nDNQne.th.png)](https://imgchr.com/i/nDNQne)
+
 求职意向： web 前端开发
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
