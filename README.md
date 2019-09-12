@@ -2,7 +2,7 @@
 
 求职意向： web 前端开发者
 
-* _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 李文 / 1996 / 湖南衡阳 / 本科软件工程专业
+* _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405
 
 ## 技能 
@@ -41,7 +41,7 @@
 
 * layui 主打的前端项目: 接触过统一用户授权，数据交换中心，电子健康卡等项目； 期间独立完成部署文档编写, sql脚本维护， 发包； 也包括独立对 treantjs [流程图](todo)的学习使用， 前端实现excel导入导出(excelJS, sheetJS)
 * [数据大屏展示](https://github.com/qiutian00/large-screen-show):  使用layui, echartjs lib, gulp工具开发； 实现echart多种图形结合使用和数据地图显示
-* react实现的小程序管理端系统: 独立负责资讯统计，健康服务管理，消息可配置管理等模块；其中包括实现基于 facebook draft-js[braft-editor富文本编辑器](https://github.com/margox/braft-editor)操作，[chartjs图](https://github.com/chartjs/Chart.js)在react中使用， 图片上传（基于Ant Design Upload）；注重于Git 提交规范，编码规范，单元测试； 并熟悉 debugger in VSCode
+* react实现的小程序管理端系统: 独立负责资讯统计，健康服务管理，消息可配置管理等模块；其中包括实现基于 facebook draft-js的[braft-editor富文本编辑器](https://github.com/margox/braft-editor)操作，[chartjs图](https://github.com/chartjs/Chart.js)在react中使用， 图片上传（基于Ant Design Upload）；注重于Git 提交规范，编码规范，单元测试； 并熟悉 debugger in VSCode
 
 #### 收获
 - 勇于提出问题，积极表述建议/观点，回答不能够说，不确定，可能
