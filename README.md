@@ -37,7 +37,7 @@
 
 ### 依据数据（湖南）科技有限公司 / 实习：2017.12 - 2018.05  前端开发： 2018.6 - 2019.08
 
-#### 项目
+#### 接触项目
 
 * layui 主打的前端项目: 接触过统一用户授权，数据交换中心，电子健康卡等项目； 期间独立完成部署文档编写, sql脚本维护， 发包； 也包括独立对 treantjs [流程图](todo)的学习使用， 前端实现excel导入导出(excelJS, sheetJS)
 * [数据大屏展示](https://github.com/qiutian00/large-screen-show):  使用layui, echartjs lib, gulp工具开发； 实现echart多种图形结合使用和数据地图显示
@@ -50,14 +50,15 @@
 - 核心功能未有持续性跟踪，新的问题需要重新确定解决方案
 - 需要会上和会下的code review，更多达到成员对项目一致的认知
 
-## 演示项目
+## 搭建项目
 
-* [github-activity](https://github.com/qiutian00/github-activity): github 活动可视化显示
-* [vue-admin](https://github.com/qiutian00/vue-admin): vue 实现的管理系统
-* [react-me](https://github.com/qiutian00/react-me): react 基本知识点学习和记录
-* [mydocs](https://github.com/qiutian00/mydocs): 快速进行在线文档分享
+* [vue-simple](https://github.com/qiutian00/vue-simple): 使用 Vue CLI 3.0 来构建的基本结构项目
+* [github-activity](https://github.com/qiutian00/github-activity): github 活动可视化显示， 使用Vue CLI 3.0 来构建的项目
+* [vue-admin](https://github.com/qiutian00/vue-admin): vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用
+* [react-me](https://github.com/qiutian00/react-me): react 基本知识点学习和记录，了解react生态系统
+* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用markdwon语法编写文档内容
 
-## 技术分享文章
+## 技术分享
 
 * [HTTP协议原理](me/share/HTTP协议原理分享.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)
 * [postman使用详解](me/share/postman的使用方法详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[代码审查](me/share/codeReview)
