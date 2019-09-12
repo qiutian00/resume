@@ -10,7 +10,7 @@ const tmpl = `
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Harry Yu - Senior Front-End Developer</title>
+    <title>qiutian00 - Front-End Developer</title>
     <link rel="stylesheet" href="./styles.css" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57557739-4"></script> -->
