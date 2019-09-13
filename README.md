@@ -77,6 +77,6 @@
 * [Blog](https://qiutian00.github.io/)
 * [CNode 社区](https://cnodejs.org/user/qiutian00)
 
-Here the [pdf](me/resume/qiutian00_resume.pdf).
+Here the [pdf](me/resume/qiutian00_resume.pdf) and [online](https://qiutian00.github.io/resume/).
 Please contact me by email at qiutian00@outlook.com.
 @copyright by qiutian00.
