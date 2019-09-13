@@ -1,6 +1,6 @@
 ## 李文 
 
-[![nDNQne.th.png](https://s2.ax1x.com/2019/09/12/nDNQne.th.png)](https://imgchr.com/i/nDNQne)
+![pic](me/img/me.jpg)
 
 求职意向： web 前端开发   期望薪资： > 7.5k，可面议  注： 链接可查看
 
