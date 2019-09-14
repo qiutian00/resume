@@ -18,12 +18,12 @@
 * _工具库_: 
   
   > jQuery  (✔✔✔) / [momentjs](https://momentjs.com/)  (✔✔✔) / [ExcelJS](https://github.com/ExcelJS/ExcelJS)  (✔✔✔) / [treantjs](https://github.com/fperucic/treant-js) (✔✔) / [lodash](https://github.com/lodash/lodash/) (✔) / 
-  > Apache ECharts (✔✔) / [chartjs](https://www.chartjs.org/) (✔✔)
+  > [Sass](https://sass-lang.com/guide) (✔✔) / Apache ECharts (✔✔) / [chartjs](https://www.chartjs.org/) (✔✔)
 
 * _工具_: 
   
   > VSCode (✔✔✔) / IntelliJ IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
-  > [Linux command](https://wangchujiang.com/linux-command/) (✔✔) / [Sass](https://sass-lang.com/guide) (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / [Fiddler](https://www.telerik.com/fiddler) (✔✔✔) /
+  > [Linux command](https://wangchujiang.com/linux-command/) (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / [Fiddler](https://www.telerik.com/fiddler) (✔✔✔) /
   > PLSQL Developer, Mysql (✔✔✔) / [Wekan](https://github.com/wekan/wekan) (✔✔) / [Alibaba iconfont图标库](https://www.iconfont.cn/) (✔✔✔) / [Mock](https://github.com/nuysoft/Mock) (✔✔) /
   > [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) (✔✔)
 
@@ -37,7 +37,7 @@
 
 ## 工作经验
 
-### 依据数据（湖南）科技有限公司 / 实习：2017.12 - 2018.05  前端开发： 2018.6 - 2019.08
+### 依据数据（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
 
 #### 接触项目
 
