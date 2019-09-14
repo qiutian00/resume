@@ -42,15 +42,15 @@
 #### 接触项目
 
 * layui 主打的前端项目: 包括统一用户授权，数据交换中心和电子健康卡等
-    *  layui + jQuery + zTree + treantjs + fetch + Bootstrap + font-awesome;
-    *  期间独立完成部署文档编写, sql脚本维护， 发包；
+    *  layui + jQuery + zTree + treantjs + fetch + Bootstrap + font-awesome
+    *  期间独立完成部署文档编写， sql脚本维护， 发包；
     *  也包括独立对 treantjs [流程图](me/img/treant_demo.png)的学习使用， 前端实现excel导入导出(ExcelJS, SheetJS)
 
 
 * [数据大屏展示](https://github.com/qiutian00/large-screen-show):  
-    * layui + axios + ECharts lib + CountTo + Gulp工具开发； 
+    * layui + axios + ECharts lib + CountTo + Gulp工具开发 
     * 负责整个项目的搭建，打包和部署；
-    * 负责页面所有ECharts图（含有甘肃省医疗结构地图, 多点汇聚到一点动态显示）实现和样式调整， 实现ECharts中多种图形结合使用
+    * 负责页面所有ECharts图（含有甘肃省医疗结构地图， 多点汇聚到一点动态显示）实现和样式调整， 实现ECharts中多种图形结合使用
   
 
 * React实现的小程序管理端系统: 
