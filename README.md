@@ -41,8 +41,14 @@
 
 #### 接触项目
 
-* layui 主打的前端项目: 接触过统一用户授权，数据交换中心，电子健康卡等项目； 期间独立完成部署文档编写, sql脚本维护， 发包； 也包括独立对 treantjs [流程图](me/treant_demo.png)的学习使用， 前端实现excel导入导出(ExcelJS, SheetJS)
+* layui 主打的前端项目: 接触过统一用户授权，数据交换中心，电子健康卡等项目； 期间独立完成部署文档编写, sql脚本维护， 发包； 也包括独立对 treantjs [流程图](me/img/treant_demo.png)的学习使用， 前端实现excel导入导出(ExcelJS, SheetJS)
+  
+------
+
 * [数据大屏展示](https://github.com/qiutian00/large-screen-show):  使用layui, ECharts lib, Gulp工具开发； 实现ECharts中多种图形结合使用和数据地图显示
+  
+------
+
 * React实现的小程序管理端系统: 独立负责资讯统计，健康服务管理，消息可配置管理等模块；其中包括实现基于 facebook draft-js的[braft-editor富文本编辑器](https://github.com/margox/braft-editor)操作，[chartjs图](https://github.com/chartjs/Chart.js)在React中使用， 图片上传（基于Ant Design Upload）；注重于Git 提交规范，编码规范，单元测试； 并熟悉 Debugging in VS Code
 
 #### 收获
