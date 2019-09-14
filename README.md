@@ -60,22 +60,17 @@
 * [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解React生态系统
 * [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用Markdown语法编写文档内容
 
-## 技术分享
-
-* [HTTP协议原理](me/share/HTTP协议原理分享.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Postman使用详解](me/share/postman的使用方法详解.pdf)
-* [vi_vim命令详解](me/share/vi_vim命令使用详解.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[代码审查](me/share/codeReview)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[如何有效报告bug](me/share/如何有效地报告Bug.pdf)
-* 前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13) [错误定位](https://github.com/joeyguo/blog/issues/14)
-
-
 ## 教育
 
 湖南人文科技学院， 本科软件工程专业 java 方向， 2014.09 - 2018.06
 
-## 链接
+## 自我评价
 
-* [GitHub](https://github.com/qiutian00)
-* [Blog](https://qiutian00.github.io/)
-* [CNode 社区](https://cnodejs.org/user/qiutian00)
+* 热爱前端技术：活跃于[GitHub](https://github.com/qiutian00)， [CNode 社区](https://cnodejs.org/user/qiutian00)和[Vex](https://www.v2ex.com/)社区，发现新前端技术（如[GraphQL](https://github.com/graphql-go/graphql)），开源项目和问题解决方案（前端脚本错误监控与定位），watch 好的开源组件，follow 技术达人；收集大牛博客， 学习分享的文章；也搭建过[Blog](https://qiutian00.github.io/)，linux上部署过代码仓库管理项目[Gitea](https://github.com/go-gitea/gitea)
+* 关注前端的基础到部署的整套体系，热衷技术分享：[HTTP协议原理](me/share/HTTP协议原理分享.pdf) [Git远程操作详解](me/share/Git远程操作详解-阮一峰.pdf) [Postman使用详解](me/share/postman的使用方法详解.pdf) [vi_vim命令详解](me/share/vi_vim命令使用详解.pdf) [代码审查](me/share/codeReview) [如何有效报告bug](me/share/如何有效地报告Bug.pdf)
+前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13) [错误定位](https://github.com/joeyguo/blog/issues/14)
+* 团队协作配合意识强（及时完成工作任务，功能模块说明清楚，常了解代码规范，如[Airbnb JavaScript Style](https://github.com/sivan/javascript-style-guide)），热于协助同事解决小问题
+
 
 Here the [pdf](me/resume/qiutian00_resume.pdf) and [online](https://qiutian00.github.io/resume/).
 Please contact me by email at qiutian00@outlook.com.
