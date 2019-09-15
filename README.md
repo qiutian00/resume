@@ -69,10 +69,10 @@
 ## 搭建项目
 
 * [vue-simple](https://github.com/qiutian00/vue-simple): 使用 Vue CLI 3.0 来构建的基本结构项目
-* [github-activity](https://github.com/qiutian00/github-activity): Github 活动可视化显示， 使用Vue CLI 3.0 来构建的项目
-* [vue-admin](https://github.com/qiutian00/vue-admin): Vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用
-* [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解 React 生态系统
-* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用 Markdown 语法编写文档内容
+* [github-activity](https://github.com/qiutian00/github-activity): Github 活动可视化显示， 使用Vue CLI 3.0 来构建的项目，[线上地址](https://qiutian00.github.io/github-activity/)
+* [vue-admin](https://github.com/qiutian00/vue-admin): Vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用，[线上地址](http://qiutian00.github.io/vue-admin)
+* [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解 React 生态系统，[线上地址](https://qiutian00.github.io/react-me/)
+* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用 Markdown 语法编写文档内容，[线上地址](https://qiutian00.github.io/mydocs/)
 
 ## 教育
 
