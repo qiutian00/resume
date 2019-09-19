@@ -60,10 +60,10 @@
     * 熟悉 Debugging in VS Code 和 React Devtool in Chrome
 
 #### 收获
-- 勇于提出问题，积极表述建议/观点，回答不能够说，不确定，可能
 - 前后端分离的项目：前端研发需要了解快速调试后端接口或明白接口的报错信息等，快速定位问题，减少沟通成本
 - 避免不好情绪影响工作，在适当的时候，提出问题或者需求帮助        
-- 核心功能未有持续性跟踪，新的问题需要重新确定解决方案
+- 核心功能未有持续性跟踪，新的问题需要重新确定解决方案，也需要研发人员及时反馈
+- 视研发团队情况，需要有统一的代码规范和多种方式代码审查
 - 需要会上和会下的 code review ，更多使得研发成员对项目的认识达成一致
 
 ## 搭建项目
@@ -82,7 +82,7 @@
 
 * 热爱前端技术：活跃于 [GitHub](https://github.com/qiutian00) ， [CNode 社区](https://cnodejs.org/user/qiutian00)和 [Vex 社区](https://www.v2ex.com/)，发现新前端技术（如 [GraphQL](https://github.com/graphql-go/graphql) ），开源项目和问题解决方案（前端脚本错误监控与定位）， watch 好的开源组件， follow 技术达人；收集大牛博客， 学习分享的文章；也搭建过 [Blog](https://qiutian00.github.io/) ， linux 上部署过代码仓库管理项目 [Gitea](https://github.com/go-gitea/gitea)，[部署效果](https://github.com/qiutian00/resume/blob/master/me/img/gitea.gif)
 * 关注前端基础到部署的整套体系，热衷技术分享： [HTTP 协议原理](me/share/HTTP协议原理分享.pdf)； [Git 远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)； [Postman 使用详解](me/share/postman的使用方法详解.pdf)； [vi_vim 命令详解](me/share/vi_vim命令使用详解.pdf)； [代码审查](me/share/codeReview)； [如何有效报告 bug ](me/share/如何有效地报告Bug.pdf)； 前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13)， [错误定位](https://github.com/joeyguo/blog/issues/14)
-* 团队协作配合意识强（及时完成工作任务，功能模块说明清楚，常了解代码规范，如 [Airbnb JavaScript Style](https://github.com/sivan/javascript-style-guide) ），热于协助同事解决小问题，积极参加团建等活动
+* 团队协作配合意识强（及时完成工作任务，功能模块说明清楚，给予回答不能够说不确定或可能，常了解代码规范，如 [Airbnb JavaScript Style](https://github.com/sivan/javascript-style-guide) ），热于协助同事解决小问题，积极参加团建等活动
 
 
 Here the [pdf](me/resume/qiutian00_resume.pdf) and [online](https://qiutian00.github.io/resume/).
