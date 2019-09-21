@@ -9,31 +9,15 @@
 
 ## 技能 
 
-非常熟悉 (✔✔✔✔)  熟悉 (✔✔✔)  基本操作 (✔✔)  了解 (✔)
+* _编程语言_: JavaScript (ES6+) / HTML5 / CSS3  / SQL / java
 
-* _编程语言_: 
-  
-  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔)
+* _工具库_: jQuery / [momentjs](https://momentjs.com/) / [ExcelJS](https://github.com/ExcelJS/ExcelJS) / [treantjs](https://github.com/fperucic/treant-js) / [lodash](https://github.com/lodash/lodash/) / [Sass](https://sass-lang.com/guide) / Apache ECharts / [chartjs](https://www.chartjs.org/)
 
-* _工具库_: 
-  
-  > jQuery  (✔✔✔) / [momentjs](https://momentjs.com/)  (✔✔✔) / [ExcelJS](https://github.com/ExcelJS/ExcelJS)  (✔✔✔) / [treantjs](https://github.com/fperucic/treant-js) (✔✔) / [lodash](https://github.com/lodash/lodash/) (✔) / 
-  > [Sass](https://sass-lang.com/guide) (✔✔) / Apache ECharts (✔✔) / [chartjs](https://www.chartjs.org/) (✔✔)
+* _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / PLSQL Developer, Mysql / [Wekan](https://github.com/wekan/wekan) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3)
 
-* _工具_: 
-  
-  > VSCode (✔✔✔) / IntelliJ IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
-  > [Linux command](https://wangchujiang.com/linux-command/) (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / [Fiddler](https://www.telerik.com/fiddler) (✔✔✔) /
-  > PLSQL Developer, Mysql (✔✔✔) / [Wekan](https://github.com/wekan/wekan) (✔✔) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) (✔✔✔) / [Mock](https://github.com/nuysoft/Mock) (✔✔) /
-  > [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) (✔✔)
+* _框架_: [layui](https://www.layui.com/) / [React](https://reactjs.org/) / [Vue](https://cn.vuejs.org/)
 
-* _框架_: 
-  
-    > [layui](https://www.layui.com/) (✔✔✔✔) / [React](https://reactjs.org/) (✔✔) / [Vue](https://cn.vuejs.org/) (✔✔✔)
-
-* _部署_: 
-  
-    > Gulp (✔) / [Travis CI](https://www.travis-ci.org/) (✔✔)  / [GitHub Pages](https://pages.github.com/) (✔✔✔) /  [Tomcate](http://tomcat.apache.org/) (✔✔✔), windows IIS (✔✔), [Nignx](http://nginx.org/en/) (✔✔)
+* _部署_: Gulp / [Travis CI](https://www.travis-ci.org/)  / [GitHub Pages](https://pages.github.com/) /  [Tomcate](http://tomcat.apache.org/), windows IIS, [Nignx](http://nginx.org/en/)
 
 ## 工作经验
 
@@ -83,6 +67,7 @@
 * 热爱前端技术：活跃于 [GitHub](https://github.com/qiutian00) ， [CNode 社区](https://cnodejs.org/user/qiutian00)和 [Vex 社区](https://www.v2ex.com/)，发现新前端技术（如 [GraphQL](https://github.com/graphql-go/graphql) ），开源项目和问题解决方案（前端脚本错误监控与定位）， watch 好的开源组件， follow 技术达人；收集大牛博客， 学习分享的文章；也搭建过 [Blog](https://qiutian00.github.io/) ， linux 上部署过代码仓库管理项目 [Gitea](https://github.com/go-gitea/gitea)，[部署效果](https://github.com/qiutian00/resume/blob/master/me/img/gitea.gif)
 * 关注前端基础到部署的整套体系，热衷技术分享： [HTTP 协议原理](me/share/HTTP协议原理分享.pdf)； [Git 远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)； [Postman 使用详解](me/share/postman的使用方法详解.pdf)； [vi_vim 命令详解](me/share/vi_vim命令使用详解.pdf)； [代码审查](me/share/codeReview)； [如何有效报告 bug ](me/share/如何有效地报告Bug.pdf)； 前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13)， [错误定位](https://github.com/joeyguo/blog/issues/14)
 * 团队协作配合意识强（及时完成工作任务，功能模块说明清楚，给予回答不能够说不确定或可能，常了解代码规范，如 [Airbnb JavaScript Style](https://github.com/sivan/javascript-style-guide) ），热于协助同事解决小问题，积极参加团建等活动
+
 
 
 Here the [pdf](me/resume/qiutian00_resume.pdf) and [online](https://qiutian00.github.io/resume/).
