@@ -9,31 +9,15 @@
 
 ## 技能 
 
-非常熟悉 (✔✔✔✔)  熟悉 (✔✔✔)  基本操作 (✔✔)  了解 (✔)
+* _编程语言_: JavaScript (ES6+) / HTML5 / CSS3  / SQL / java
 
-* _编程语言_: 
-  
-  > JavaScript (ES6+) (✔✔) / HTML5 (✔✔✔✔) / CSS3 (✔✔)  / SQL (✔✔✔) / java (✔)
+* _工具库_: jQuery / [momentjs](https://momentjs.com/) / [ExcelJS](https://github.com/ExcelJS/ExcelJS) / [treantjs](https://github.com/fperucic/treant-js) / [lodash](https://github.com/lodash/lodash/) / [Sass](https://sass-lang.com/guide) / Apache ECharts / [chartjs](https://www.chartjs.org/)
 
-* _工具库_: 
-  
-  > jQuery  (✔✔✔) / [momentjs](https://momentjs.com/)  (✔✔✔) / [ExcelJS](https://github.com/ExcelJS/ExcelJS)  (✔✔✔) / [treantjs](https://github.com/fperucic/treant-js) (✔✔) / [lodash](https://github.com/lodash/lodash/) (✔) / 
-  > [Sass](https://sass-lang.com/guide) (✔✔) / Apache ECharts (✔✔) / [chartjs](https://www.chartjs.org/) (✔✔)
+* _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / PLSQL Developer, Mysql / [Wekan](https://github.com/wekan/wekan) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3)
 
-* _工具_: 
-  
-  > VSCode (✔✔✔) / IntelliJ IDEA (✔✔✔) / Git (✔✔✔✔) / SVN (✔✔✔) / Debug (Devtools) (✔✔✔) /
-  > [Linux command](https://wangchujiang.com/linux-command/) (✔✔) / Markdown (✔✔✔) / Postman (✔✔✔) / [Fiddler](https://www.telerik.com/fiddler) (✔✔✔) /
-  > PLSQL Developer, Mysql (✔✔✔) / [Wekan](https://github.com/wekan/wekan) (✔✔) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) (✔✔✔) / [Mock](https://github.com/nuysoft/Mock) (✔✔) /
-  > [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) (✔✔)
+* _框架_: [layui](https://www.layui.com/) (✔✔✔✔) / [React](https://reactjs.org/) (✔✔) / [Vue](https://cn.vuejs.org/) (✔✔✔)
 
-* _框架_: 
-  
-    > [layui](https://www.layui.com/) (✔✔✔✔) / [React](https://reactjs.org/) (✔✔) / [Vue](https://cn.vuejs.org/) (✔✔✔)
-
-* _部署_: 
-  
-    > Gulp (✔) / [Travis CI](https://www.travis-ci.org/) (✔✔)  / [GitHub Pages](https://pages.github.com/) (✔✔✔) /  [Tomcate](http://tomcat.apache.org/) (✔✔✔), windows IIS (✔✔), [Nignx](http://nginx.org/en/) (✔✔)
+* _部署_: Gulp (✔) / [Travis CI](https://www.travis-ci.org/) (✔✔)  / [GitHub Pages](https://pages.github.com/) (✔✔✔) /  [Tomcate](http://tomcat.apache.org/) (✔✔✔), windows IIS (✔✔), [Nignx](http://nginx.org/en/) (✔✔)
 
 ## 工作经验
 
