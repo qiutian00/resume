@@ -34,7 +34,7 @@
 * **[数据大屏展示](https://github.com/qiutian00/large-screen-show)**
     * layui + axios + ECharts lib + CountTo + Gulp工具开发 
     * 主导整个项目的搭建，打包和部署
-    * 负责页面所有 ECharts 图（含有甘肃省医疗结构地图， 多点汇聚到一点动态显示）实现和样式调整， 实现 ECharts 中多种图形结合使用
+    * 负责页面所有 ECharts 图（含有甘肃省医疗机构地图， 多点汇聚到一点动态显示）实现和样式调整， 实现 ECharts 中多种图形结合使用
   
 
 * **React 实现的小程序管理端系统**
