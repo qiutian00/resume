@@ -2,14 +2,14 @@
 
 ![pic](me/img/me.jpg)
 
-求职意向： web 前端开发   期望薪资： > 7.5k，可面议  注： 链接可查看
+求职意向： web 前端开发   期望薪资： > 7k，可面议  注： 链接可查看
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405 / [GitHub](https://github.com/qiutian00)
 
 ## 技能 
 
-* _编程语言_: JavaScript (ES6+) / HTML5 / CSS3  / SQL / java
+* _编程语言_: JavaScript (ES6+) / HTML / CSS  / SQL / java
 
 * _工具库_: jQuery / [momentjs](https://momentjs.com/) / [ExcelJS](https://github.com/ExcelJS/ExcelJS) / [treantjs](https://github.com/fperucic/treant-js) / [lodash](https://github.com/lodash/lodash/) / [Sass](https://sass-lang.com/guide) / Apache ECharts / [chartjs](https://www.chartjs.org/)
 
