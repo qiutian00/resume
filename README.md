@@ -9,7 +9,7 @@
 
 ## 技能 
 
-* _编程语言_: JavaScript (ES6+) / HTML / CSS  / SQL / java
+* _编程语言_: JavaScript (ES6+) / HTML / CSS
 
 * _工具库_: jQuery / [momentjs](https://momentjs.com/) / [ExcelJS](https://github.com/ExcelJS/ExcelJS) / [treantjs](https://github.com/fperucic/treant-js) / [lodash](https://github.com/lodash/lodash/) / [Sass](https://sass-lang.com/guide) / Apache ECharts / [chartjs](https://www.chartjs.org/)
 
@@ -17,7 +17,7 @@
 
 * _框架_: [layui](https://www.layui.com/) / [React](https://reactjs.org/) / [Vue](https://cn.vuejs.org/)
 
-* _部署_: Gulp / [Travis CI](https://www.travis-ci.org/)  / [GitHub Pages](https://pages.github.com/) /  [Tomcate](http://tomcat.apache.org/), windows IIS, [Nignx](http://nginx.org/en/)
+* _部署_: Gulp / [Travis CI](https://www.travis-ci.org/)  / [GitHub Pages](https://pages.github.com/) /  [Tomcat](http://tomcat.apache.org/), windows IIS, [Nignx](http://nginx.org/en/)
 
 ## 工作经验
 
