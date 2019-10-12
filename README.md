@@ -5,7 +5,7 @@
 求职意向： web 前端开发   期望薪资： > 7k，可面议  注： 链接可查看
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
-* _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405 / [GitHub](https://github.com/qiutian00) / http://www.qiutian00.cn/
+* _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405 / [GitHub](https://github.com/qiutian00) / [http://www.qiutian00.cn/](http://www.qiutian00.cn/)
 
 ## 技能 
 
@@ -53,10 +53,10 @@
 ## 搭建项目
 
 * [vue-simple](https://github.com/qiutian00/vue-simple): 使用 Vue CLI 3.0 来构建的基本结构项目
-* [github-activity](https://github.com/qiutian00/github-activity): GitHub 活动可视化显示， 使用Vue CLI 3.0 来构建的项目，线上地址： http://www.qiutian00.cn/github-activity/
-* [vue-admin](https://github.com/qiutian00/vue-admin): Vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用，线上地址： http://www.qiutian00.cn/vue-admin
-* [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解 React 生态系统，线上地址： http://www.qiutian00.cn/react-me/
-* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用 Markdown 语法编写文档内容，线上地址： http://www.qiutian00.cn/mydocs/
+* [github-activity](https://github.com/qiutian00/github-activity): GitHub 活动可视化显示， 使用Vue CLI 3.0 来构建的项目，线上地址： [http://www.qiutian00.cn/github-activity/](http://www.qiutian00.cn/github-activity/)
+* [vue-admin](https://github.com/qiutian00/vue-admin): Vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用，线上地址： [http://www.qiutian00.cn/vue-admin](http://www.qiutian00.cn/vue-admin)
+* [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解 React 生态系统，线上地址： [http://www.qiutian00.cn/react-me/](http://www.qiutian00.cn/react-me/)
+* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用 Markdown 语法编写文档内容，线上地址： [http://www.qiutian00.cn/mydocs/](http://www.qiutian00.cn/mydocs/)
 
 ## 教育
 
