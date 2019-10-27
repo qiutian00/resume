@@ -46,9 +46,9 @@ body {
   height: 100%;
 
   /* 使用css滚动 */
-  /* overflow-y: scroll;
+  overflow-y: scroll;
   scroll-behavior: smooth;
-  scroll-snap-type: y mandatory; */
+  scroll-snap-type: y mandatory;
 }
 
 .navbar {
@@ -83,6 +83,13 @@ body {
 
   /* 设置hover的背景层颜色的 */
   padding: 1rem;
+}
+
+@media (max-width: 900px) {
+  .navbar ul li a {
+    padding: 0;
+    font-size: 1em;
+  }
 }
 
 .navbar li a:hover {
