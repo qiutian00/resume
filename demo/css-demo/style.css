@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #333;
+  color: #fff;
+  height: 100vh;
+  line-height: 1.6;
+
+  /* 只是展示一个屏幕 */
+  overflow: hidden;
+}
+
+/*设置滚动条样式*/
+
+*::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 2px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #bbbbbb;
+  border-radius: 2px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #a8a8a8;
+}
+
+*::-webkit-scrollbar-corner {
+  background: #f6f6f6;
+}
+
+/*设置滚动条样式 end*/
+
+.container {
+  width: 100%;
+  height: 100%;
+
+  /* 使用css滚动 */
+  /* overflow-y: scroll;
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory; */
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  /* height: 60px; */
+  background: rgba(39, 39, 39, 0.7);
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  width: 100%;
+  /* 内容居中 */
+  justify-content: center;
+}
+
+.navbar ul li {
+  margin: 0 1rem;
+  /* padding: 1rem; */
+}
+
+/* a 标签为行内标签，改为block,上下的padding起了效果 */
+/* a 撑开了li标签，使得与li, ul标签的大小一致 */
+.navbar ul li a {
+  display: block;
+  color: skyblue;
+  text-decoration: none;
+  font-size: 18px;
+
+  /* 设置hover的背景层颜色的 */
+  padding: 1rem;
+}
+
+.navbar li a:hover {
+  background: rgba(3, 3, 3, 0.7);
+  color: #f4f4f4;
+}
+
+section {
+  /* 使用flex，整个屏幕在一个居中状态 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+
+  /* vh 不是所有的浏览器支持的 */
+  height: 100vh;
+
+  /* 不同事展示页面的一半的一半 */
+  scroll-snap-align: center;
+}
+
+section h1 {
+  font-size: 4rem;
+}
+
+section p {
+  font-size: 1.5rem;
+}
+
+section#home {
+  background: url("https://images.pexels.com/photos/34140/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    no-repeat center center/cover;
+}
+section#about {
+  background: url("https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    no-repeat center center/cover;
+}
+section#service {
+  background: url("https://images.pexels.com/photos/326424/pexels-photo-326424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    no-repeat center center/cover;
+}
+section#find {
+  background: url("https://images.pexels.com/photos/256425/pexels-photo-256425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    no-repeat center center/cover;
+}
+section#contact {
+  background: url("https://images.pexels.com/photos/209151/pexels-photo-209151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    no-repeat center center/cover;
+}
