@@ -2,7 +2,7 @@
 
 ![pic](me/img/me.jpg)
 
-求职意向： web 前端开发   期望薪资： > 7k，可面议  注： 链接可查看
+求职意向： web 前端开发   期望薪资： > 9k，可面议  注： 链接可查看
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405 / [GitHub](https://github.com/qiutian00) / [http://www.qiutian00.cn/](http://www.qiutian00.cn/)
@@ -21,7 +21,7 @@
 
 ## 工作经验
 
-### 依据数据（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
+### 1. 依据数据（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
 
 #### 项目经验
 
@@ -49,6 +49,18 @@
 - 核心功能未有持续性跟踪，新的问题需要重新确定解决方案，也需要研发人员及时反馈
 - 视研发团队情况，需要有统一的代码规范和多种方式代码审查
 - 需要会上和会下的 code review ，更多使得研发成员对项目的认识达成一致
+
+### 2. 广州华资软件有限公司：中级前端开发（2019.10 - 至今）
+
+#### doing now
+- 读书（自卑与超越， 非暴力沟通， 儒林外史，墨菲定律，当下的力量，曾文正公家书等35本以上）
+- 地图开发（百度地图开发， 天地图开发， [Leaflet](https://leafletjs.com/) 使用）
+- h5 app开发（主要技术栈react ，[UmiJs](https://umijs.org/)）
+- app use [standard-version](https://github.com/conventional-changelog/standard-version) 来发布app
+- 组件使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started) （忘记了部分，后面继续补充）
+- use v2ray to visit google and some post
+
+###
 
 ## 搭建项目
 
