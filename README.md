@@ -2,10 +2,10 @@
 
 ![pic](me/img/me.jpg)
 
-求职意向： web 前端开发   期望薪资： > 9k，可面议  注： 链接可查看
+求职意向： web 前端开发   期望薪资： > 10k，可面议  注： 链接可查看
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
-* _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian00@outlook.com / 15115829405 / [GitHub](https://github.com/qiutian00) / [http://www.qiutian00.cn/](http://www.qiutian00.cn/)
+* _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / [GitHub](https://github.com/qiutian00) / [http://www.qiutian00.cn/](http://www.qiutian00.com/)
 
 ## 技能 
 
