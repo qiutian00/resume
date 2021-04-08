@@ -59,6 +59,9 @@
 - app use [standard-version](https://github.com/conventional-changelog/standard-version) 来发布app
 - 组件使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started) （忘记了部分，后面继续补充）
 - use v2ray to visit google and some post
+- learning flutter develop
+
+### [my daily note](http://www.qiutian00.com)
 
 ###
 
@@ -83,5 +86,5 @@
 
 
 Here the [pdf](me/resume/qiutian00_resume.pdf) and [online](https://qiutian00.github.io/resume/).
-Please contact me by email at qiutian00@outlook.com.
+Please contact me by email at qiutian.00@qq.com.
 @copyright by qiutian00.
