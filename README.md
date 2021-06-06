@@ -1,7 +1,7 @@
 ## 李文 
 
 <!-- ![pic](me/img/me.jpg) -->
-![pic](http://static.qiutian00.cn/uPic/Photo_0122_10a.jpg)
+<img src="./me/img/Photo_0122_10a.jpg" width="120" align="middle" />
 
 求职意向： web 前端开发   期望薪资： > 10k，可面议 状态：目前在职
 
