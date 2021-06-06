@@ -60,6 +60,7 @@
 - 组件使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started) （忘记了部分，后面继续补充）
 - use v2ray to visit google and some post
 - learning flutter develop
+- 积极投入开源中， 提升工作效率。
 
 ### [my daily note](http://www.qiutian00.com)
 
