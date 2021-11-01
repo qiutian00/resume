@@ -6,25 +6,29 @@
 求职意向： web 前端开发   期望薪资： 11k，可面议 状态：目前在职
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
-* _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / [GitHub](https://github.com/qiutian00) / [http://www.qiutian00.cn/](http://www.qiutian00.com/)
+* _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / [GitHub](https://github.com/qiutian00)
 
 ## 技能 
 
 * _编程语言_: JavaScript (ES6+) / HTML / CSS
 
-* _工具库_: jQuery / [momentjs](https://momentjs.com/) / [ExcelJS](https://github.com/ExcelJS/ExcelJS) / [treantjs](https://github.com/fperucic/treant-js) / [lodash](https://github.com/lodash/lodash/) / [Sass](https://sass-lang.com/guide) / Apache ECharts / [chartjs](https://www.chartjs.org/)
+* _工具库_: 快速上手react pc, mobile, native相关组件
+  - 脚手架: create react app, vite, umi(dvajs), cordova
+  - (数据管理: redux)
+  - react pc: antd ui, material ui, uiw
+  - react mobile/native: antd mobile, react-vant, eact-native-leaflet-view
 
-* _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / PLSQL Developer, Mysql / [Wekan](https://github.com/wekan/wekan) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3)
+* _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / vim editor
 
-* _框架_: [layui](https://www.layui.com/) / [React](https://reactjs.org/) / [Vue](https://cn.vuejs.org/)
+* _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started)
 
-* _部署_: Gulp / [Travis CI](https://www.travis-ci.org/)  / [GitHub Pages](https://pages.github.com/) /  [Tomcat](http://tomcat.apache.org/), windows IIS, [Nignx](http://nginx.org/en/)
+* _部署_: [Tomcat](http://tomcat.apache.org/), [Nignx](http://nginx.org/en/) / Gulp / [Travis CI](https://www.travis-ci.org/) / [GitHub Pages](https://pages.github.com/) 
 
 ## 工作经验
 
 ### 1. 广州华资软件有限公司：中级前端开发（2019.10 - 至今）
 
-#### doing now
+#### 收获
 - 快速高质量开发前端模块（独立拆解思维方式：大模块可以拆为小任务； 理解一个模块交换闭环）， 难点问题能够快速找到前端相关的解决方案
 - 上线系统快速定位问题并修复
 - react 生态中组件可以快速上手使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started)，富文本组件，移动端组件， react native组件， 自定义hooks
