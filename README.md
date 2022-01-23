@@ -12,17 +12,19 @@
 
 * _编程语言_: JavaScript (ES6+) / HTML / CSS
 
-* _工具库_: 快速上手react pc, mobile, native相关组件
+* _工具库_: 快速上手react pc, mobile, native等相关组件或开源库
   - 脚手架: create react app, vite, umi(dvajs), cordova
-  - (数据管理: redux)
+  - 数据管理: [easy-peasy](https://github.com/ctrlplusb/easy-peasy), [teafuljs](https://github.com/teafuljs/teaful)
   - react pc: antd ui, material ui, uiw
-  - react mobile/native: antd mobile, react-vant, eact-native-leaflet-view
+  - hooks: react hooks, [use-immer](https://github.com/immerjs/use-immer), [react-use](https://github.com/streamich/react-use)
+  - react mobile/native: antd mobile, react-vant, react-native-leaflet-view
+  - web map: [Leaflet](https://leafletjs.com/)
 
 * _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / vim editor
 
 * _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started)
 
-* _部署_: [Tomcat](http://tomcat.apache.org/), [Nignx](http://nginx.org/en/) / Gulp / [Travis CI](https://www.travis-ci.org/) / [GitHub Pages](https://pages.github.com/) 
+* _部署_: [Tomcat](http://tomcat.apache.org/), [Nignx](http://nginx.org/en/) / [Travis CI](https://www.travis-ci.org/) / [GitHub Pages](https://pages.github.com/) 
 
 ## 工作经验
 
