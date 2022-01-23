@@ -57,9 +57,9 @@
 #### 工作日志记录 && 复盘
 ![pic](me/img/wekan.png) 
 
-#### 内部开发记录和提交
-![pic](me/img/inner_pic_cut.png) 
-![pic](me/img/gitlab_contribute.png) 
+<!-- #### 内部开发记录和提交 -->
+<!-- ![pic](me/img/inner_pic_cut.png)  -->
+<!-- ![pic](me/img/gitlab_contribute.png)  -->
 
 ### 2. 依据数据（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
 
