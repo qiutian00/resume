@@ -1,8 +1,13 @@
 ## 李文
 
+<img src="./me/img/Photo_0122_10a.jpg" width="120" align="middle" />
+
 **求职意向： web 前端开发   期望薪资： 11k，可面议 状态：目前在职**
 
-<table>
+* _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
+* _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / [GitHub](https://github.com/qiutian00)
+
+<!-- <table>
     <tr>
         <th>基本信息</th>
         <th>照片</th>
@@ -13,7 +18,7 @@
     <tr>
         <td>联系方式:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / GitHub: https://github.com/qiutian00</td>
     </tr>
-</table>
+</table> -->
 
 ## 技能 
 
