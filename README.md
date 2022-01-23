@@ -2,7 +2,7 @@
 
 <img src="./me/img/Photo_0122_10a.jpg" width="120" align="middle" />
 
-**求职意向： web 前端开发   期望薪资： 11k，可面议 状态：目前在职**
+**求职意向： web 前端开发 base 广州   期望薪资： 11k，可面议 状态：目前在职**
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / [GitHub](https://github.com/qiutian00)
@@ -56,11 +56,9 @@
 - 读书（自卑与超越， 非暴力沟通， 儒林外史，墨菲定律，当下的力量，曾文正公家书，蒋勋细说红楼梦等35本以上）
 - use v2ray to visit google and some post
 - 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等
-
-#### [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
-
-#### 工作日志记录 && 复盘
-![pic](me/img/wekan.png) 
+- 工作日志记录 && 复盘
+<!-- ![pic](me/img/wekan.png)  -->
+- [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
 
 <!-- #### 内部开发记录和提交 -->
 <!-- ![pic](me/img/inner_pic_cut.png)  -->
