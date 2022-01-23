@@ -110,6 +110,6 @@
 
 
 
-Here the [pdf](me/resume/qiutian00_resume.pdf) and [online](https://qiutian00.github.io/resume/).
+Here the [pdf](me/resume/qiutian00_resume_2022.pdf) and [online](https://qiutian00.github.io/resume/).
 Please contact me by email at qiutian.00@qq.com.
 @copyright by qiutian00.
