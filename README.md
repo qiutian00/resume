@@ -38,7 +38,8 @@
 
 - h5 app开发（主要技术栈react ，[UmiJs](https://umijs.org/)，app use [standard-version](https://github.com/conventional-changelog/standard-version) 来发布app， 使用cordova 原生插件来自动下载和更新app
 ）
-- use react native
+- 自学 react native
+- 总结适应于项目中eslint配置
 
 - 读书（自卑与超越， 非暴力沟通， 儒林外史，墨菲定律，当下的力量，曾文正公家书，蒋勋细说红楼梦等35本以上）
 - use v2ray to visit google and some post
@@ -46,7 +47,12 @@
 
 #### [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
 
-#### [工作日志记录 && 复盘](http://855b-47-242-89-236.ngrok.io/b/sHTk42YiHGhJe6C9e/week-task-management)
+#### 工作日志记录 && 复盘
+![pic](me/img/wekan.png) 
+
+#### 内部开发记录和提交
+![pic](me/img/inner_pic_cut.png) 
+![pic](me/img/gitlab_contribute.png) 
 
 ### 2. 依据数据（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
 
