@@ -43,6 +43,9 @@
 ### 1. 广州华资软件有限公司：中级前端开发（2019.11 - 至今）
 
 #### 收获
+
+* 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
+
 * 快速高质量开发前端模块（独立拆解思维方式：大模块可以拆为小任务； 理解一个模块交换闭环）， 难点问题能够快速找到前端相关的解决方案
 * 上线系统快速定位问题并修复
 * react 生态中组件可以快速上手使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started)，富文本组件，移动端组件， react native组件， 自定义hooks
@@ -59,8 +62,6 @@
 * 工作日志记录 && 复盘
 <!-- ![pic](me/img/wekan.png)  -->
 * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
-
-* 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
 
 <!-- #### 内部开发记录和提交 -->
 <!-- ![pic](me/img/inner_pic_cut.png)  -->
