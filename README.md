@@ -60,6 +60,8 @@
 <!-- ![pic](me/img/wekan.png)  -->
 * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
 
+* 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
+
 <!-- #### 内部开发记录和提交 -->
 <!-- ![pic](me/img/inner_pic_cut.png)  -->
 <!-- ![pic](me/img/gitlab_contribute.png)  -->
