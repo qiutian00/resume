@@ -22,7 +22,7 @@
 
 ## 技能 
 
-* _编程语言_: JavaScript (ES6+) / HTML / CSS
+<!-- * _编程语言_: JavaScript (ES6+) / HTML / CSS -->
 
 * _工具库_: 快速上手react pc, mobile, native等相关组件或开源库
   - 脚手架: create react app, vite, umi(dvajs), cordova
@@ -96,13 +96,13 @@
 - 视研发团队情况，需要有统一的代码规范和多种方式代码审查
 - 需要会上和会下的 code review ，更多使得研发成员对项目的认识达成一致
 
-#### 搭建项目
+<!-- #### 搭建项目
 
 * [vue-simple](https://github.com/qiutian00/vue-simple): 使用 Vue CLI 3.0 来构建的基本结构项目
 * [github-activity](https://github.com/qiutian00/github-activity): GitHub 活动可视化显示， 使用Vue CLI 3.0 来构建的项目，线上地址： [http://www.qiutian00.cn/github-activity/](http://www.qiutian00.cn/github-activity/)
 * [vue-admin](https://github.com/qiutian00/vue-admin): Vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用，线上地址： [http://www.qiutian00.cn/vue-admin](http://www.qiutian00.cn/vue-admin)
 * [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解 React 生态系统，线上地址： [http://www.qiutian00.cn/react-me/](http://www.qiutian00.cn/react-me/)
-* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用 Markdown 语法编写文档内容，线上地址： [http://www.qiutian00.cn/mydocs/](http://www.qiutian00.cn/mydocs/)
+* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用 Markdown 语法编写文档内容，线上地址： [http://www.qiutian00.cn/mydocs/](http://www.qiutian00.cn/mydocs/) -->
 
 ## 教育
 
@@ -116,6 +116,6 @@
 
 
 
-Here the [pdf](me/resume/qiutian00_resume_2022.pdf) and [online](https://qiutian00.github.io/resume/).
+<!-- Here the [pdf](me/resume/qiutian00_resume_2022.pdf) and [online](https://qiutian00.github.io/resume/). -->
 Please contact me by email at qiutian.00@qq.com.
 @copyright by qiutian00.
