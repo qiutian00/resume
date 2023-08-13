@@ -32,9 +32,9 @@
   - react mobile/native: antd mobile, react-vant, react-native-leaflet-view
   - web map: [Leaflet](https://leafletjs.com/)
 
-* _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Alibaba iconfont 图标库](https://www.iconfont.cn/) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / vim editor
+* _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)
 
-* _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started)
+* _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started) / 基于tarojs二次封装web组件开发h5应用
 
 * _部署_: [Tomcat](http://tomcat.apache.org/), [Nignx](http://nginx.org/en/) / [Travis CI](https://www.travis-ci.org/) / [GitHub Pages](https://pages.github.com/) 
 
@@ -54,6 +54,8 @@
 ）
 * 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等
 * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
+
+* 难点技术开发： 大屏使用虚拟列表 / 维护60+个tarojs封装web组件 
 
 <!-- ![pic](me/img/wekan.png)  -->
 <!-- * 上线系统快速定位问题并修复 -->
