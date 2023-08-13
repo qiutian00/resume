@@ -47,23 +47,23 @@
 * 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
 
 * 快速高质量开发前端模块（独立拆解思维方式：大模块可以拆为小任务； 理解一个模块交换闭环）， 难点问题能够快速找到前端相关的解决方案
-* 上线系统快速定位问题并修复
 * react 生态中组件可以快速上手使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started)，富文本组件，移动端组件， react native组件， 自定义hooks
 * 地图开发（百度地图开发， 天地图开发， [Leaflet](https://leafletjs.com/) 使用）
 
 * h5 app开发（主要技术栈react ，[UmiJs](https://umijs.org/)，app use [standard-version](https://github.com/conventional-changelog/standard-version) 来发布app， 使用cordova 原生插件来自动下载和更新app
 ）
-* 自学 react native
-* 总结适应于项目中eslint配置
-
-* 读书（自卑与超越， 非暴力沟通， 儒林外史，墨菲定律，当下的力量，曾文正公家书，蒋勋细说红楼梦等35本以上）
-* use v2ray to visit google and some post
 * 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等
-* 工作日志记录 && 复盘
-<!-- ![pic](me/img/wekan.png)  -->
 * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
 
+<!-- ![pic](me/img/wekan.png)  -->
+<!-- * 上线系统快速定位问题并修复 -->
+<!-- * 自学 react native -->
+<!-- * 总结适应于项目中eslint配置 -->
+<!-- * use v2ray to visit google and some post -->
+<!-- * 工作日志记录 && 复盘 -->
+<!-- * 读书（自卑与超越， 非暴力沟通， 儒林外史，墨菲定律，当下的力量，曾文正公家书，蒋勋细说红楼梦等35本以上） -->
 <!-- #### 内部开发记录和提交 -->
+
 <!-- ![pic](me/img/inner_pic_cut.png)  -->
 <!-- ![pic](me/img/gitlab_contribute.png)  -->
 
@@ -95,14 +95,6 @@
 - 核心功能未有持续性跟踪，新的问题需要重新确定解决方案，也需要研发人员及时反馈
 - 视研发团队情况，需要有统一的代码规范和多种方式代码审查
 - 需要会上和会下的 code review ，更多使得研发成员对项目的认识达成一致
-
-<!-- #### 搭建项目
-
-* [vue-simple](https://github.com/qiutian00/vue-simple): 使用 Vue CLI 3.0 来构建的基本结构项目
-* [github-activity](https://github.com/qiutian00/github-activity): GitHub 活动可视化显示， 使用Vue CLI 3.0 来构建的项目，线上地址： [http://www.qiutian00.cn/github-activity/](http://www.qiutian00.cn/github-activity/)
-* [vue-admin](https://github.com/qiutian00/vue-admin): Vue 实现的管理系统，包括基本组件封装，iView， Element UI 等使用，线上地址： [http://www.qiutian00.cn/vue-admin](http://www.qiutian00.cn/vue-admin)
-* [react-me](https://github.com/qiutian00/react-me): React 基本知识点学习和记录，了解 React 生态系统，线上地址： [http://www.qiutian00.cn/react-me/](http://www.qiutian00.cn/react-me/)
-* [mydocs](https://github.com/qiutian00/mydocs): 快速进行分享在线文档， 使用 Markdown 语法编写文档内容，线上地址： [http://www.qiutian00.cn/mydocs/](http://www.qiutian00.cn/mydocs/) -->
 
 ## 教育
 
