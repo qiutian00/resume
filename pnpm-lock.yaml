@@ -1,14 +1,17 @@
-lockfileVersion: 5.3
+lockfileVersion: '6.0'
 
-specifiers:
-  marked: ^0.6.2
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 devDependencies:
-  marked: 0.6.3
+  marked:
+    specifier: ^0.6.2
+    version: 0.6.3
 
 packages:
 
-  /marked/0.6.3:
+  /marked@0.6.3:
     resolution: {integrity: sha512-Fqa7eq+UaxfMriqzYLayfqAE40WN03jf+zHjT18/uXNuzjq3TY0XTbrAoPeqSJrAmPz11VuUA+kBPYOhHt9oOQ==}
     engines: {node: '>=0.10.0'}
     hasBin: true
