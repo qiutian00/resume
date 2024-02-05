@@ -26,11 +26,12 @@
 
 * _工具库_: 快速上手react pc, mobile, native等相关组件或开源库
   - 脚手架: create react app, vite, umi(dvajs), cordova
-  - 数据管理: [easy-peasy](https://github.com/ctrlplusb/easy-peasy), [teafuljs](https://github.com/teafuljs/teaful)
+  - 数据管理: [easy-peasy](https://github.com/ctrlplusb/easy-peasy), [teafuljs](https://github.com/teafuljs/teaful), [redux saga](https://redux-saga.js.org/)
   - react pc: antd ui, material ui, uiw
   - hooks: react hooks, [use-immer](https://github.com/immerjs/use-immer), [react-use](https://github.com/streamich/react-use)
   - react mobile/native: antd mobile, react-vant, react-native-leaflet-view
   - web map: [Leaflet](https://leafletjs.com/)
+  - 其他工具: [rollup.js](https://rollupjs.org/), [pnpm workspace](https://pnpm.io/workspaces), [changesets manage version log](https://github.com/changesets/changesets)
 
 * _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)
 
@@ -40,6 +41,7 @@
 
 ## 开发的库
 - [web-performance-tracer](https://github.com/qiutian00/web-performance-tracer)：🛠️网页性能监控 18 项数据指标，错误收集上报。[![npm](https://img.shields.io/npm/v/web-performance-tracer.svg)](https://npmjs.com/package/web-performance-tracer)     [![](https://img.shields.io/npm/dt/web-performance-tracer?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/web-performance-tracer)
+- [user-behaviour-tracer](https://www.npmjs.com/package/user-behaviour-tracer)：🌻 A tiny event emitter library.[![npm](https://img.shields.io/npm/v/user-behaviour-tracer.svg)](https://npmjs.com/package/user-behaviour-tracer)     [![](https://img.shields.io/npm/dt/user-behaviour-tracer?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/user-behaviour-tracer)
 - [event-mitter-js](https://github.com/qiutian00/event-mitter-js)：🌻 A tiny event emitter library.[![npm](https://img.shields.io/npm/v/event-mitter-js.svg)](https://npmjs.com/package/event-mitter-js)     [![](https://img.shields.io/npm/dt/event-mitter-js?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/event-mitter-js)
 - [micro-message](https://github.com/qiutian00/micro-message)：🌸 Micro frontend of data manage.[![npm](https://img.shields.io/npm/v/micro-message.svg)](https://npmjs.com/package/micro-message)     [![](https://img.shields.io/npm/dt/micro-message?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/micro-message)
 - [tabs-bridge](https://github.com/qiutian00/tabs-bridge)：🌿Browser tabs post message. [![npm](https://img.shields.io/npm/v/tabs-bridge.svg)](https://npmjs.com/package/tabs-bridge)     [![](https://img.shields.io/npm/dt/tabs-bridge?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/tabs-bridge)
@@ -61,7 +63,7 @@
 * 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等
 * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
 
-* 难点技术开发： 大屏使用虚拟列表 / 维护60+个tarojs封装web组件 
+* 难点技术开发： 大屏使用虚拟列表 / 维护60+个tarojs封装web组件 / pnpm + workspace + changesets 搭建 monorepo 工程
 
 <!-- ![pic](me/img/wekan.png)  -->
 <!-- * 上线系统快速定位问题并修复 -->
@@ -93,16 +95,15 @@
 
 * **React 实现的小程序管理端系统**
     * Ant Design Pro + momentjs + braft-editor + chartjs + ExcelJS && FileSaver + react-icons
-    * 独立负责资讯统计，健康服务管理，消息可配置管理等模块
     * 实现基于 Facebook draft-js 的 [braft-editor 富文本编辑器](https://github.com/margox/braft-editor)操作， [chartjs   图](https://github.com/chartjs/Chart.js)在 React 中使用， 图片上传（基于 Ant Design Upload ），并注重于 Git 提交规范，编码规范
     * 熟悉 Debugging in VS Code 和 React Devtool in Chrome
 
-#### 收获
-- 前后端分离的项目：前端研发需要了解快速调试后端接口或明白接口的报错信息等，快速定位问题，减少沟通成本
-- 避免不好情绪影响工作，在适当的时候，提出问题或者需求帮助        
-- 核心功能未有持续性跟踪，新的问题需要重新确定解决方案，也需要研发人员及时反馈
-- 视研发团队情况，需要有统一的代码规范和多种方式代码审查
-- 需要会上和会下的 code review ，更多使得研发成员对项目的认识达成一致
+<!-- #### 收获  -->
+<!-- - 前后端分离的项目：前端研发需要了解快速调试后端接口或明白接口的报错信息等，快速定位问题，减少沟通成本 -->
+<!-- - 避免不好情绪影响工作，在适当的时候，提出问题或者需求帮助 -->
+<!-- - 核心功能未有持续性跟踪，新的问题需要重新确定解决方案，也需要研发人员及时反馈  -->
+<!-- - 视研发团队情况，需要有统一的代码规范和多种方式代码审查  -->
+<!-- - 需要会上和会下的 code review ，更多使得研发成员对项目的认识达成一致  -->
 
 ## 教育
 
