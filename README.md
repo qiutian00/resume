@@ -27,10 +27,9 @@
 * _工具库_: 快速上手react pc, mobile, native等相关组件或开源库
   - 脚手架: create react app, vite, umi(dvajs), cordova
   - 数据管理: [easy-peasy](https://github.com/ctrlplusb/easy-peasy), [teafuljs](https://github.com/teafuljs/teaful), [redux saga](https://redux-saga.js.org/)
-  - react pc: antd ui, material ui, uiw
+  - react pc: antd ui, [web map Leaflet](https://leafletjs.com/), material ui, uiw
   - hooks: react hooks, [use-immer](https://github.com/immerjs/use-immer), [react-use](https://github.com/streamich/react-use)
   - react mobile/native: antd mobile, react-vant, react-native-leaflet-view
-  - web map: [Leaflet](https://leafletjs.com/)
   - 其他工具: [rollup.js](https://rollupjs.org/), [pnpm workspace](https://pnpm.io/workspaces), [changesets manage version log](https://github.com/changesets/changesets)
 
 * _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)
@@ -49,8 +48,6 @@
 ## 工作经验
 
 ### 1. 广州华资软件有限公司：中级前端开发（2019.11 - 至今）
-
-#### 收获
 
 * 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
 
@@ -78,8 +75,6 @@
 <!-- ![pic](me/img/gitlab_contribute.png)  -->
 
 ### 2. 依据数据（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
-
-#### 项目经验
 
 * **layui 主打的前端项目**: 包括统一用户授权，数据交换中心和电子健康卡等
     *  layui + jQuery + zTree + treantjs + fetch + Bootstrap + font-awesome
