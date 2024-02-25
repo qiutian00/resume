@@ -51,7 +51,7 @@
 
 ## 工作经验
 
-### 1. 广州华资软件有限公司：中级前端开发（2019.11 - 至今）
+### 1. 广州**软件有限公司：中级前端开发（2019.11 - 至今）
 
 * 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
 
@@ -65,6 +65,8 @@
 * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c)
 
 * 难点技术开发： 大屏使用虚拟列表 / 维护60+个tarojs封装web组件 / pnpm + workspace + changesets 搭建 monorepo 工程
+  
+* 带领新人体系化学习前端，拆分安排任务和指导新人开发前端功能，快速进入前端职业岗位
 
 <!-- ![pic](me/img/wekan.png)  -->
 <!-- * 上线系统快速定位问题并修复 -->
@@ -78,24 +80,24 @@
 <!-- ![pic](me/img/inner_pic_cut.png)  -->
 <!-- ![pic](me/img/gitlab_contribute.png)  -->
 
-### 2. 依据数据（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
+### 2. **（湖南）科技有限公司：实习（2017.12 - 2018.05）  前端开发（2018.6 - 2019.08）
 
 * **layui 主打的前端项目**: 包括统一用户授权，数据交换中心和电子健康卡等
     *  layui + jQuery + zTree + treantjs + fetch + Bootstrap + font-awesome
     *  前端80%模块都有参加功能实现，期间独立完成部署文档编写， sql 脚本维护， 打包和开发环境部署
     *  独立学习 treantjs [流程图](https://github.com/qiutian00/resume/blob/master/me/img/treant_demo.png)的使用， 前端实现 excel 导入导出(从 [GitHub](https://github.com/qiutian00) 上发现的 ExcelJS， SheetJS)
 
-
-* **[数据大屏展示](https://github.com/qiutian00/large-screen-show)**
-    * layui + axios + ECharts lib + CountTo + Gulp工具开发 
-    * 主导整个项目的搭建，打包和部署
-    * 负责页面所有 ECharts 图（含有甘肃省医疗机构地图， 多点汇聚到一点动态显示）实现和样式调整， 实现 ECharts 中多种图形结合使用
-  
-
 * **React 实现的小程序管理端系统**
     * Ant Design Pro + momentjs + braft-editor + chartjs + ExcelJS && FileSaver + react-icons
     * 实现基于 Facebook draft-js 的 [braft-editor 富文本编辑器](https://github.com/margox/braft-editor)操作， [chartjs   图](https://github.com/chartjs/Chart.js)在 React 中使用， 图片上传（基于 Ant Design Upload ），并注重于 Git 提交规范，编码规范
     * 熟悉 Debugging in VS Code 和 React Devtool in Chrome
+ 
+<!--
+* **[数据大屏展示](https://github.com/qiutian00/large-screen-show)**
+    * layui + axios + ECharts lib + CountTo + Gulp工具开发 
+    * 主导整个项目的搭建，打包和部署
+    * 负责页面所有 ECharts 图（含有甘肃省医疗机构地图， 多点汇聚到一点动态显示）实现和样式调整， 实现 ECharts 中多种图形结合使用
+-->
 
 <!-- #### 收获  -->
 <!-- - 前后端分离的项目：前端研发需要了解快速调试后端接口或明白接口的报错信息等，快速定位问题，减少沟通成本 -->
@@ -111,9 +113,9 @@
 ## 自我评价
 
 * 热爱前端技术：活跃于 [GitHub](https://github.com/qiutian00) 和 [V2ex 社区](https://www.v2ex.com/)，发现新前端技术，开源项目和问题解决方案（前端脚本错误监控与定位）， watch 好的开源组件， follow 技术达人；收集大牛博客， 学习分享的文章；也搭建过 [Blog](https://qiutian00.github.io/) ， Linux 上部署过代码仓库管理项目 [Gitea](https://github.com/go-gitea/gitea)，[部署效果](https://github.com/qiutian00/resume/blob/master/me/img/gitea.gif)
+* 经常记录日常解决前端问题方案或者代码走查内容到文档中，便于分析给团队人员参考
 * 关注前端基础到部署的整套体系，热衷技术分享： [HTTP 协议原理](me/share/HTTP协议原理分享.pdf)； [Git 远程操作详解](me/share/Git远程操作详解-阮一峰.pdf)； [Postman 使用详解](me/share/postman的使用方法详解.pdf)； [Vim 命令详解](me/share/vi_vim命令使用详解.pdf)； [代码审查](me/share/codeReview)； [如何有效报告 bug ](me/share/如何有效地报告Bug.pdf)； 前端脚本错误： [监控上报](https://github.com/joeyguo/blog/issues/13)， [错误定位](https://github.com/joeyguo/blog/issues/14)
-* 团队协作配合意识强（及时完成工作任务，功能模块说明清楚，给予回答不能够说不确定或可能，常了解代码规范，如 [Airbnb JavaScript Style](https://github.com/sivan/javascript-style-guide) ），热于协助同事解决小问题，积极参加团建等活动
-
+* 团队协作配合意识强（及时完成工作任务，功能模块说明清楚，给予回答不能够说不确定或可能，常了解代码规范，如 [Airbnb JavaScript Style](https://github.com/sivan/javascript-style-guide) ），热于协助同事解决小问题等活动
 
 
 <!-- Here the [pdf](me/resume/qiutian00_resume_2022.pdf) and [online](https://qiutian00.github.io/resume/). -->
