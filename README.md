@@ -25,19 +25,22 @@
 
 <!-- * _编程语言_: JavaScript (ES6+) / HTML / CSS -->
 
-* _工具库_: 快速上手react pc, mobile, native等相关组件或开源库
+* _工具库_: 快速上手react pc, mobile, native等相关框架、组件或开源库, 同时关注前端架构(monorepo 工程)
+
+<!--
   - 脚手架: create react app, vite, umi(dvajs), cordova
   - 数据管理: [easy-peasy](https://github.com/ctrlplusb/easy-peasy), [teafuljs](https://github.com/teafuljs/teaful), [redux saga](https://redux-saga.js.org/)
   - react pc: antd ui, [web map Leaflet](https://leafletjs.com/), material ui, uiw
   - hooks: react hooks, [use-immer](https://github.com/immerjs/use-immer), [react-use](https://github.com/streamich/react-use)
   - react mobile/native: antd mobile, react-vant, react-native-leaflet-view
   - 其他工具: [rollup.js](https://rollupjs.org/), [pnpm workspace](https://pnpm.io/workspaces), [changesets manage version log](https://github.com/changesets/changesets)
+  -->
 
 * _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)
 
-* _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started) / 基于tarojs二次封装web组件开发h5应用
+* _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started) / 基于tarojs二次封装web组件开发h5应用 / vue3
 
-* _部署_: [Tomcat](http://tomcat.apache.org/), [Nignx](http://nginx.org/en/) / [Travis CI](https://www.travis-ci.org/) / [GitHub Pages](https://pages.github.com/) 
+* _部署_: [Nignx](http://nginx.org/en/) / docker 部署前端 / [Tomcat](http://tomcat.apache.org/)
 
 ## 开发的库
 - [web-performance-tracer](https://github.com/qiutian00/web-performance-tracer)：🛠️网页性能监控 18 项数据指标，错误收集上报。[![npm](https://img.shields.io/npm/v/web-performance-tracer.svg)](https://npmjs.com/package/web-performance-tracer)     [![](https://img.shields.io/npm/dt/web-performance-tracer?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/web-performance-tracer)
