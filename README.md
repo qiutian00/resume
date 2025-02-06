@@ -58,21 +58,21 @@
 * 技术预研， 能够快速找到前端解决方案并设计相关方案，满足功能开发（ pc端页面在pad端兼容，cordova 混合app自动更新下载新版本app，适配wtms地图服务考虑到兼容支持多种互联网地图，使用echarts和canvans兼容在微信小程序显示）
 
 * 难点技术开发： 维护60+个tarojs封装web组件 / pnpm + workspace + changesets 搭建 monorepo 工程 / 使用虚拟列表实现类似电影票选位功能
-
-* 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
   
 * 带领新人体系化学习前端，拆分安排任务和指导新人开发前端功能，快速进入前端职业岗位
 
-* 定位前端疑难问题（npm 版本转es6, 生产环境组件报错节目白屏调整节目逻辑，依赖组件缺陷修复，如vue-slicksort-scroll在内容过多情况下可以拖动滑动
+* 定位前端疑难问题（npm 包es6语法编译, 生产环境组件报错节目白屏调整节目逻辑，依赖组件缺陷修复，如vue-slicksort-scroll在内容过多情况下可以拖动滑动）
 
-* 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等
-  
-* react 生态中组件可以快速上手使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started)，富文本组件，移动端组件， react native组件， 自定义hooks
-  
-* 地图开发（百度地图开发， 天地图开发， [Leaflet](https://leafletjs.com/) 使用）
+* react 和 vue 生态中组件可以快速上手使用： [Swiper](https://github.com/nolimits4web/swiper) ， [AntV F2](https://f2.antv.vision/zh/docs/tutorial/getting-started)，富文本组件，移动端组件， react native组件， 自定义hooks，地图开发（百度地图开发， 天地图开发， [Leaflet](https://leafletjs.com/) 使用）
+
+* 使用微前端技术， 在项目中落地微前端; 开源[微前端通信 npm lib](https://github.com/qiutian00/micro-message)
+
 
 * h5 app开发（主要技术栈react ，[UmiJs](https://umijs.org/)，app use [standard-version](https://github.com/conventional-changelog/standard-version) 来发布app， 使用cordova 原生插件来自动下载和更新app
 ）
+
+* 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等；学习Rust，探索其在WebAssembly、视频压缩和3D可视化中的应用
+
   
 <!-- * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c) -->
 
