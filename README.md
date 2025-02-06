@@ -41,6 +41,7 @@
 * _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started) / 基于tarojs二次封装web组件开发h5应用 / vue3
 
 * _部署_: [Nignx](http://nginx.org/en/) / docker 部署前端 / [Tomcat](http://tomcat.apache.org/)
+* _开发环境_: mac / windows (vscode remote)
 
 ## 开发的库
 - [web-performance-tracer](https://github.com/qiutian00/web-performance-tracer)：🛠️网页性能监控 18 项数据指标，错误收集上报。[![npm](https://img.shields.io/npm/v/web-performance-tracer.svg)](https://npmjs.com/package/web-performance-tracer)     [![](https://img.shields.io/npm/dt/web-performance-tracer?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/web-performance-tracer)
