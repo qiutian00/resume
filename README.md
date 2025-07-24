@@ -2,7 +2,7 @@
 
 <img src="./me/img/Photo_0122_10a.jpg" width="120" align="middle" />
 
-**求职意向： web 前端开发 base 广州   期望薪资： 15k，可面议 状态：目前在职**
+**求职意向： web 前端开发 base 广州   期望薪资： 18k，可面议 状态：目前在职**
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 全日制本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / [GitHub](https://github.com/qiutian00)
@@ -25,7 +25,7 @@
 
 <!-- * _编程语言_: JavaScript (ES6+) / HTML / CSS -->
 
-* _工具库_: 快速上手react pc, mobile, native等相关框架、组件或开源库, 同时关注前端架构(monorepo 工程)
+* _工具库_: 快速上手react pc, mobile, native等相关框架、组件或开源库, 熟悉前端架构(monorepo 工程)
 
 <!--
   - 脚手架: create react app, vite, umi(dvajs), cordova
@@ -36,7 +36,7 @@
   - 其他工具: [rollup.js](https://rollupjs.org/), [pnpm workspace](https://pnpm.io/workspaces), [changesets manage version log](https://github.com/changesets/changesets)
   -->
 
-* _工具_: VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)
+* _工具_: Cursor / VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)/ [nushell](https://www.nushell.sh/) 
 
 * _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started) / 基于tarojs二次封装web组件开发h5应用 / vue3
 
@@ -73,7 +73,9 @@
 * h5 app开发（主要技术栈react ，[UmiJs](https://umijs.org/)，app use [standard-version](https://github.com/conventional-changelog/standard-version) 来发布app， 使用cordova 原生插件来自动下载和更新app
 ）
 
-* 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等；学习Rust，探索其在WebAssembly、视频压缩和3D可视化中的应用
+* 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等；自学rust，探索其构建WebAssembly的应用，如在视频压缩和3D可视化中；用rust构建cli优化前端开发体验
+
+* Cursor 辅助编程， 使用nushell提高在windows终端操作体验（个人电脑用的 Mac Oh My Zsh）
 
   
 <!-- * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c) -->
