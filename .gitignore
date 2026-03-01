@@ -2,5 +2,7 @@ node_modules
 
 demo/*
 
+.claude/*
+
 # add 全图滚动效果 demo
 !demo/css-demo

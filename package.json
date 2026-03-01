@@ -1,25 +1,27 @@
 {
   "name": "cv",
   "version": "1.0.0",
-  "description": "* Email: qiutian00@outlook.com",
+  "description": "李文 - 前端开发工程师简历",
   "main": "index.js",
   "scripts": {
     "build": "node build.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "node build.js --watch",
+    "dev": "npm run watch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/qiutian00/resume.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["resume", "cv", "frontend"],
+  "author": "qiutian00",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/qiutian00/resume/issues"
   },
   "homepage": "https://github.com/qiutian00/resume#readme",
   "dependencies": {},
   "devDependencies": {
-    "marked": "^0.6.2"
+    "marked": "^14.0.0",
+    "chokidar": "^3.6.0"
   }
 }
