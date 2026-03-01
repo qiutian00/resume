@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>全图滚动效果</title>
+    <meta name="description" content="李文 - 前端开发工程师，6年中厂开发经验">
+    <title>李文 - 前端开发工程师</title>
     <link rel="stylesheet" href="./style.css">
 </head>
 
@@ -14,58 +15,183 @@
         <nav class="navbar">
             <ul>
                 <li><a href="#home">主页</a></li>
-                <li><a href="#about">关于我们</a></li>
-                <li><a href="#service">服务</a></li>
-                <li><a href="#find">最新发现</a></li>
-                <li><a href="#contact">联系我们</a></li>
+                <li><a href="#about">关于我</a></li>
+                <li><a href="#skills">技能</a></li>
+                <li><a href="#projects">开源项目</a></li>
+                <li><a href="#contact">联系我</a></li>
             </ul>
         </nav>
 
+        <!-- 主页 -->
         <section id="home">
-            <h1>欢迎来到前端领域home</h1>
-            <p class="lead">
-                Add some information about the album below, the author, or any other background context. Make it a few
-                sentences long so folks can pick up some informative tidbits. Then, link them off to some social
-                networking sites or contact information.
-            </p>
+            <div class="section-content">
+                <img src="../me/img/Photo_0122_10a.jpg" alt="李文" class="avatar">
+                <h1>你好，我是李文</h1>
+                <p class="subtitle">前端开发工程师 | 6年中厂开发经验</p>
+                <p class="lead">
+                    热爱前端技术，专注于 React 生态开发，关注性能优化与用户体验
+                </p>
+                <div class="btn-group">
+                    <a href="../index.html" class="btn btn-primary">查看简历</a>
+                    <a href="#contact" class="btn btn-secondary">联系我</a>
+                </div>
+            </div>
         </section>
+
+        <!-- 关于我 -->
         <section id="about">
-            <h1>欢迎来到前端领域about</h1>
-            <p class="lead">
-                Add some information about the album below, the author, or any other background context. Make it a few
-                sentences long so folks can pick up some informative tidbits. Then, link them off to some social
-                networking sites or contact information.
-            </p>
+            <div class="section-content">
+                <h1>关于我</h1>
+                <div class="about-grid">
+                    <div class="about-item">
+                        <span class="about-label">姓名</span>
+                        <span class="about-value">李文</span>
+                    </div>
+                    <div class="about-item">
+                        <span class="about-label">工作年限</span>
+                        <span class="about-value">6年前端开发</span>
+                    </div>
+                    <div class="about-item">
+                        <span class="about-label">所在城市</span>
+                        <span class="about-value">广州</span>
+                    </div>
+                    <div class="about-item">
+                        <span class="about-label">学历</span>
+                        <span class="about-value">本科 · 软件工程</span>
+                    </div>
+                </div>
+                <p class="lead">
+                    快速高质量开发前端模块，能够根据原型设计界面交互并给出优化建议。<br>
+                    熟悉 React 生态、微前端架构、性能监控等技术领域。<br>
+                    积极投入开源，开发了多个 npm 库，热衷技术分享。
+                </p>
+            </div>
         </section>
-        <section id="service">
-            <h1>欢迎来到前端领域service</h1>
-            <p class="lead">
-                Add some information about the album below, the author, or any other background context. Make it a few
-                sentences long so folks can pick up some informative tidbits. Then, link them off to some social
-                networking sites or contact information.
-            </p>
+
+        <!-- 技能 -->
+        <section id="skills">
+            <div class="section-content">
+                <h1>技术栈</h1>
+                <div class="skills-grid">
+                    <div class="skill-card">
+                        <h3>框架</h3>
+                        <p>React / React Native / Vue3 / Taro</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>工具库</h3>
+                        <p>Ant Design / UmiJS / Vite / Webpack</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>架构</h3>
+                        <p>Monorepo / 微前端 / pnpm workspace</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>部署</h3>
+                        <p>Docker / Nginx / CI/CD</p>
+                    </div>
+                </div>
+            </div>
         </section>
-        <section id="find">
-            <h1>欢迎来到前端领域 new find</h1>
-            <p class="lead">
-                Add some information about the album below, the author, or any other background context. Make it a few
-                sentences long so folks can pick up some informative tidbits. Then, link them off to some social
-                networking sites or contact information.
-            </p>
+
+        <!-- 开源项目 -->
+        <section id="projects">
+            <div class="section-content">
+                <h1>开源项目</h1>
+                <div class="projects-grid">
+                    <a href="https://github.com/qiutian00/web-performance-tracer" target="_blank" class="project-card">
+                        <h3>web-performance-tracer</h3>
+                        <p>网页性能监控 18 项数据指标，错误收集上报</p>
+                    </a>
+                    <a href="https://github.com/qiutian00/micro-message" target="_blank" class="project-card">
+                        <h3>micro-message</h3>
+                        <p>微前端通信解决方案</p>
+                    </a>
+                    <a href="https://github.com/qiutian00/antd-virtualized-table" target="_blank" class="project-card">
+                        <h3>antd-virtualized-table</h3>
+                        <p>Ant Design 表格虚拟滚动增强</p>
+                    </a>
+                    <a href="https://github.com/qiutian00/tabs-bridge" target="_blank" class="project-card">
+                        <h3>tabs-bridge</h3>
+                        <p>浏览器多标签页通信</p>
+                    </a>
+                </div>
+                <a href="https://github.com/qiutian00" target="_blank" class="btn btn-secondary" style="margin-top: 2rem;">
+                    查看更多项目 →
+                </a>
+            </div>
         </section>
+
+        <!-- 联系我 -->
         <section id="contact">
-            <h1>欢迎来到前端领域contact email</h1>
-            <p class="lead">
-                Add some information about the album below, the author, or any other background context. Make it a few
-                sentences long so folks can pick up some informative tidbits. Then, link them off to some social
-                networking sites or contact information.
-            </p>
+            <div class="section-content">
+                <h1>联系我</h1>
+                <div class="contact-grid">
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <span class="contact-label">邮箱</span>
+                            <a href="mailto:qiutian.00@qq.com">qiutian.00@qq.com</a>
+                        </div>
+                        <div class="contact-item">
+                            <span class="contact-label">GitHub</span>
+                            <a href="https://github.com/qiutian00" target="_blank">github.com/qiutian00</a>
+                        </div>
+                        <div class="contact-item">
+                            <span class="contact-label">电话</span>
+                            <span>15115829405</span>
+                        </div>
+                    </div>
+                    <div class="qrcode-box">
+                        <img src="./images/qrcode.png" alt="微信公众号" class="qrcode">
+                        <p>扫码关注公众号</p>
+                    </div>
+                </div>
+            </div>
         </section>
     </div>
 
-    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdn.bootcss.com/smooth-scroll/16.1.0/smooth-scroll.min.js"></script>
-    <!-- <script src="./main.js"></script> -->
+    <script>
+        // 导航高亮
+        const navLinks = document.querySelectorAll('.navbar a[href^="#"]');
+        const sections = document.querySelectorAll('section');
+
+        function updateActiveNav() {
+            let current = '';
+            const scrollPos = document.querySelector('.container').scrollTop;
+
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop - 100;
+                const sectionHeight = section.offsetHeight;
+
+                if (scrollPos >= sectionTop && scrollPos < sectionTop + sectionHeight) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === `#${current}`) {
+                    link.classList.add('active');
+                }
+            });
+        }
+
+        // 监听滚动
+        document.querySelector('.container').addEventListener('scroll', updateActiveNav);
+
+        // 初始化
+        updateActiveNav();
+
+        // 平滑滚动
+        navLinks.forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
 </body>
 
 </html>
