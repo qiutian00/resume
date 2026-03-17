@@ -2,11 +2,11 @@
 
 <img src="./me/img/Photo_0122_10a.jpg" width="120" align="middle" />
 
-**求职意向： web 前端开发 base 广州   期望薪资： 18k，可面议 状态：目前在职**
+**求职意向： 前端开发 base 广州   期望薪资： 18k，可面议 状态：目前在职**
 
 * _基本信息_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李文 / 1996 / 湖南衡阳 / 全日制本科软件工程专业
 * _联系方式_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;qiutian.00@qq.com / 15115829405 / [GitHub](https://github.com/qiutian00)
-* _工作经验_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6年前端中厂开发经历 / 有带前端实习生经验
+* _工作经验_:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6年前端中厂开发经历 / 有带前端新人导师经验
 
 <!-- <table>
     <tr>
@@ -36,12 +36,13 @@
   - 其他工具: [rollup.js](https://rollupjs.org/), [pnpm workspace](https://pnpm.io/workspaces), [changesets manage version log](https://github.com/changesets/changesets)
   -->
 
-* _工具_: Cursor / VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)/ [nushell](https://www.nushell.sh/) 
+* _工具_: Cursor / Claude Code Cli / VSCode / IntelliJ IDEA / Git / SVN / Debug (Devtools) / [Linux command](https://wangchujiang.com/linux-command/) / Markdown / Postman / [Fiddler](https://www.telerik.com/fiddler) / [Wekan](https://github.com/wekan/wekan) / [Mock](https://github.com/nuysoft/Mock) / [unit test 使用](https://cnodejs.org/topic/55b9e875f36f579657fc52f3) / 使用arclinux镜像 [vscode 远程开发](https://code.visualstudio.com/docs/devcontainers/containers)/ [nushell](https://www.nushell.sh/) 
 
 * _框架_: [React](https://reactjs.org/) / [react-native](https://reactnative.cn/docs/getting-started) / 基于tarojs二次封装web组件开发h5应用 / vue3
 
 * _部署_: [Nignx](http://nginx.org/en/) / docker 部署前端 / [Tomcat](http://tomcat.apache.org/)
 * _开发环境_: mac / windows ([VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview))
+* _其他_: 专注前端架构工程，专注AI编程， 日常使用python，探索学习新语言， 使用 OpenClaw 搭建 agent 助理
 
 ## 开发的库
 - [web-performance-tracer](https://github.com/qiutian00/web-performance-tracer)：🛠️网页性能监控 18 项数据指标，错误收集上报。[![npm](https://img.shields.io/npm/v/web-performance-tracer.svg)](https://npmjs.com/package/web-performance-tracer)     [![](https://img.shields.io/npm/dt/web-performance-tracer?style=flat&label=downloads&color=3b9648&labelColor=484848&logo=npm)](https://www.npmjs.com/package/web-performance-tracer)
@@ -53,7 +54,7 @@
 
 ## 工作经验
 
-### 1. 广州**软件有限公司：中级前端开发（2019.11 - 至今）
+### 1. 广州**软件有限公司：高级前端开发，前端负责人（2019.11 - 至今）
 
 * 快速高质量开发前端模块（独立拆解思维方式：大模块可以拆为小任务； 理解一个模块交换闭环）， 可以根据原型界面设计界面交互， 给出优化交互体验建议
   
@@ -75,7 +76,7 @@
 
 * 积极投入开源中(翻译wekan中英文)， 关注前端技术，关注前端项目打包体积减少优化，提升工作效率等；自学rust，探索其构建WebAssembly的应用，如在视频压缩和3D可视化中；用rust构建cli优化前端开发体验
 
-* Cursor 辅助编程， 使用nushell提高在windows终端操作体验（个人电脑用的 Mac Oh My Zsh）
+* AI 辅助编程， 使用Cursor, Claude Code Cli 来辅助日常编程。作为前端负责人，结合业务和技术难点解决前端疑难杂症
 
   
 <!-- * [日常额外小知识输出](https://www.notion.so/e8f91011b6d0476a9da4fce440ee3940?v=b118ab23d1b345ed8aa86b13d6567b5c) -->
