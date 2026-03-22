@@ -1,26 +1,309 @@
+/* 基础样式 */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --text-color: #333;
+  --text-light: #666;
+  --bg-color: #f8f9fa;
+  --card-bg: #fff;
+  --border-color: #e1e4e8;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC',
-    'Microsoft YaHei', 'Helvetica Neue', sans-serif;
-  font-size: 16px;
-  line-height: 1.4;
-  color: #333;
-  padding: 0 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
+    'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  padding: 0;
+  margin: 0;
   word-break: break-word;
   hyphens: auto;
 }
-h2 {
-  margin-top: 1.2em;
-  margin-bottom: 0.4em;
-  text-transform: uppercase;
+
+/* 容器 */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
 }
-h3,
-h4 {
+
+/* 头部区域 */
+h2:first-of-type {
   margin-top: 0;
-  margin-bottom: 0.4em;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
 }
+
+h2:first-of-type img {
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  object-fit: cover;
+}
+
+/* 标题样式 */
+h2 {
+  font-size: 1.5em;
+  color: var(--primary-color);
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--secondary-color);
+  text-transform: none;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.15em;
+  color: var(--primary-color);
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 1em;
+  color: var(--text-color);
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+  font-weight: 500;
+}
+
+/* 段落和列表 */
 p {
   margin-top: 0;
+  margin-bottom: 0.8em;
 }
+
 ul {
-  padding-left: 2em;
+  padding-left: 1.5em;
+  margin: 0.5em 0;
+}
+
+li {
+  margin-bottom: 0.4em;
+}
+
+/* 表格样式 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  background: var(--card-bg);
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+thead {
+  background: var(--primary-color);
+  color: white;
+}
+
+th, td {
+  padding: 10px 14px;
+  text-align: left;
+  border: none;
+}
+
+thead th {
+  font-weight: 500;
+  font-size: 0.9em;
+}
+
+tbody tr {
+  border-bottom: 1px solid var(--border-color);
+}
+
+tbody tr:last-child {
+  border-bottom: none;
+}
+
+tbody tr:hover {
+  background: #f8fafc;
+}
+
+tbody td:first-child {
+  font-weight: 500;
+  color: var(--text-light);
+  white-space: nowrap;
+}
+
+/* 第一个表格（基本信息）特殊样式 */
+h2:first-of-type + p + p + table {
+  box-shadow: none;
+  background: transparent;
+}
+
+h2:first-of-type + p + p + table thead {
+  display: none;
+}
+
+h2:first-of-type + p + p + table td {
+  padding: 6px 14px 6px 0;
+}
+
+h2:first-of-type + p + p + table td:first-child {
+  color: var(--text-light);
+  min-width: 80px;
+}
+
+h2:first-of-type + p + p + table tbody tr {
+  border: none;
+  background: transparent;
+}
+
+/* 链接样式 */
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+/* 强调文本 */
+strong {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* 分割线 */
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--border-color), transparent);
+  margin: 2em 0;
+}
+
+/* 图片徽章 */
+img[alt="downloads"] {
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+/* 技能矩阵表格 */
+h3 + table {
+  font-size: 0.95em;
+}
+
+h3 + table tbody td:first-child {
+  color: var(--primary-color);
+  font-weight: 600;
+  min-width: 100px;
+}
+
+/* 开源项目表格 */
+h2:nth-of-type(2) + table {
+  margin-top: 0.5em;
+}
+
+/* 代码块（如果有） */
+code {
+  background: #f4f4f5;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace;
+}
+
+/* 打印样式 */
+@media print {
+  body {
+    background: white;
+    font-size: 12pt;
+  }
+
+  .container {
+    padding: 0;
+    max-width: 100%;
+  }
+
+  h2 {
+    page-break-after: avoid;
+    border-bottom-color: #000;
+  }
+
+  table {
+    box-shadow: none;
+    border: 1px solid #ddd;
+  }
+
+  thead {
+    background: #f0f0f0 !important;
+    color: #000 !important;
+    -webkit-print-color-adjust: exact;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  hr {
+    border-top: 1px solid #ddd;
+    background: none;
+    height: auto;
+  }
+}
+
+/* 响应式 */
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 20px 15px;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  table {
+    font-size: 0.9em;
+  }
+
+  th, td {
+    padding: 8px 10px;
+  }
+
+  h2:first-of-type {
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+  }
+
+  h2:first-of-type img {
+    margin: 0 auto;
+  }
+}
+
+/* 联系方式列表 */
+h2:last-of-type + ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+h2:last-of-type + ul li {
+  margin-bottom: 0.6em;
+}
+
+/* 版权信息 */
+body > .container > p:last-child {
+  text-align: center;
+  color: var(--text-light);
+  font-size: 0.85em;
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid var(--border-color);
 }
