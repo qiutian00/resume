@@ -38,12 +38,16 @@
 
 | 项目 | 描述 | 下载量 |
 |------|------|--------|
+| [rslint-staged](https://github.com/qiutian00/rslint-staged) | 高性能的rust重写的lint-staged | ![downloads](https://img.shields.io/npm/dt/rslint-staged) |
 | [web-performance-tracer](https://github.com/qiutian00/web-performance-tracer) | 网页性能监控，18项数据指标+错误收集上报 | ![downloads](https://img.shields.io/npm/dt/web-performance-tracer) |
-| [user-behaviour-tracer](https://www.npmjs.com/package/user-behaviour-tracer) | 用户行为追踪采集 | ![downloads](https://img.shields.io/npm/dt/user-behaviour-tracer) |
+| [cckit](https://github.com/qiutian00/cckit) | Claude Code 配置切换工具 | ![downloads](https://img.shields.io/npm/dt/cckit) |
 | [antd-virtualized-table](https://github.com/qiutian00/antd-virtualized-table) | Ant Design虚拟滚动表格组件 | ![downloads](https://img.shields.io/npm/dt/antd-virtualized-table) |
 | [micro-message](https://github.com/qiutian00/micro-message) | 微前端通信解决方案 | ![downloads](https://img.shields.io/npm/dt/micro-message) |
-| [event-mitter-js](https://github.com/qiutian00/event-mitter-js) | 轻量级事件发射器 | ![downloads](https://img.shields.io/npm/dt/event-mitter-js) |
+| [user-behaviour-tracer](https://www.npmjs.com/package/user-behaviour-tracer) | 用户行为追踪采集 | ![downloads](https://img.shields.io/npm/dt/user-behaviour-tracer) |
 | [tabs-bridge](https://github.com/qiutian00/tabs-bridge) | 浏览器多Tab页消息通信 | ![downloads](https://img.shields.io/npm/dt/tabs-bridge) |
+
+
+<!-- | [event-mitter-js](https://github.com/qiutian00/event-mitter-js) | 轻量级事件发射器 | ![downloads](https://img.shields.io/npm/dt/event-mitter-js) | -->
 
 ---
 
@@ -70,8 +74,8 @@
 - 地图服务开发（百度地图、天地图、Leaflet），实现多地图源兼容适配
 
 **🤖 AI辅助编程实践**
-- 熟练使用 **Cursor、Claude Code CLI** 进行AI辅助开发，结合开发框架封装前后端skills推广团队成员使用
-- 将AI工具融入日常开发流程，显著提升编码效率
+- 熟练使用 **Cursor、Claude Code CLI** 进行AI辅助开发，探索 agent-teams 开发方式
+- 将AI工具融入日常开发流程，结合开发框架封装前后端skills推广团队成员使用，显著提升编码效率
 - 探索Rust构建WebAssembly应用（视频压缩、3D可视化）
 
 **👥 团队培养**
