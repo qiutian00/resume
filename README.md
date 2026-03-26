@@ -18,12 +18,14 @@
 - **前端框架**：React（精通）、React Native、Vue3、Taro
 - **工程化架构**：Monorepo（pnpm workspace + changesets）、微前端、Vite/Webpack构建优化
 - **性能优化**：虚拟列表、代码分割、包体积优化、首屏加载优化、性能监控
+- **状态管理**：Redux Saga、Zustand、Easy Peasy、Teaful
 
 ### 技术能力矩阵
 | 领域 | 核心技能 |
 |------|----------|
 | 框架生态 | React Hooks、React Router、Redux/Zustand、Ant Design、Ant Design Mobile |
 | 跨端开发 | React Native、Cordova混合App、Taro H5、微信小程序 |
+| 地图开发 | 百度地图、天地图、Leaflet、WTMS地图服务 |
 | 工程工具 | pnpm monorepo、Changesets版本管理、Rollup打包、单元测试 |
 | AI辅助开发 | Cursor、Claude Code CLI、AI驱动编码提效 |
 
@@ -62,21 +64,23 @@
 - 主导搭建 **pnpm monorepo 工程架构**，统一管理60+业务组件，提升团队协作效率
 - 引入 **Changesets 版本管理**，实现组件库的规范化发布流程
 - 设计实现 **微前端架构方案**，支撑多团队并行开发，产出[micro-message通信库](https://github.com/qiutian00/micro-message)
+- 实现PC端页面在Pad端兼容适配，解决多端适配问题
 
 **⚡ 性能优化实践**
 - 使用虚拟列表技术实现**类电影票选位复杂交互**，支持大数据量流畅渲染
 - 开发 [web-performance-tracer](https://github.com/qiutian00/web-performance-tracer) 性能监控SDK，覆盖18项核心指标
 - 优化生产环境打包体积，解决ES6语法兼容、组件白屏等疑难问题
+- 使用ECharts和Canvas兼容微信小程序图表显示
 
 **📱 跨端开发经验**
 - 维护 **60+ Taro封装Web组件**，支撑H5/小程序多端复用
-- 基于 Cordova 实现混合App自动更新机制
-- 地图服务开发（百度地图、天地图、Leaflet），实现多地图源兼容适配
+- 基于 Cordova 实现混合App自动更新机制，使用原生插件实现自动下载和更新
+- 地图服务开发（百度地图、天地图、Leaflet），实现多地图源兼容适配，支持WTMS地图服务
 
 **🤖 AI辅助编程实践**
 - 熟练使用 **Cursor、Claude Code CLI** 进行AI辅助开发，探索 agent-teams 开发方式
 - 将AI工具融入日常开发流程，结合开发框架封装前后端skills推广团队成员使用，显著提升编码效率
-- 探索Rust构建WebAssembly应用（视频压缩、3D可视化）
+- 探索Rust构建WebAssembly应用（视频压缩、3D可视化），开发 [rslint-staged](https://github.com/qiutian00/rslint-staged) 高性能工具
 
 **👥 团队培养**
 - 建立新人培养体系，指导多名新人快速进入前端岗位
@@ -107,9 +111,9 @@
 
 - **前端工程化实践者**：从开发到部署的完整技术体系经验，专注Monorepo架构、微前端、性能优化
 - **AI辅助编程先行者**：熟练使用Cursor、Claude Code等AI工具结合业务场景提升开发效率
-- **开源贡献者**：开发维护6个npm开源项目，积极参与技术社区（GitHub、V2ex）
+- **开源贡献者**：开发维护多个npm开源项目，积极参与技术社区（GitHub、V2ex），参与Wekan项目中英文翻译
 - **团队导师**：具备新人培养经验，建立体系化前端学习路径
-- **持续学习**：日常使用Python，探索Rust/WebAssembly在前端的应用
+- **持续学习**：日常使用Python，探索Rust/WebAssembly在前端的应用，关注前端开发体验和用户体验
 
 <!-- --- -->
 
